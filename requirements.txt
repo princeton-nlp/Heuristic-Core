@@ -1,0 +1,9 @@
+evaluate==0.4.1
+matplotlib==3.8.2
+numpy==1.26.4
+pandas==2.2.1
+seaborn==0.13.2
+tensorflow==2.15.0.post1
+torch==2.1.0
+tqdm==4.66.1
+transformers==4.36.2

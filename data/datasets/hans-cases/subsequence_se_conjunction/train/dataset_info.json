@@ -1,0 +1,88 @@
+{
+  "builder_name": "hans",
+  "citation": "@article{DBLP:journals/corr/abs-1902-01007,\n  author    = {R. Thomas McCoy and\n               Ellie Pavlick and\n               Tal Linzen},\n  title     = {Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural\n               Language Inference},\n  journal   = {CoRR},\n  volume    = {abs/1902.01007},\n  year      = {2019},\n  url       = {http://arxiv.org/abs/1902.01007},\n  archivePrefix = {arXiv},\n  eprint    = {1902.01007},\n  timestamp = {Tue, 21 May 2019 18:03:36 +0200},\n  biburl    = {https://dblp.org/rec/journals/corr/abs-1902-01007.bib},\n  bibsource = {dblp computer science bibliography, https://dblp.org}\n}\n",
+  "config_name": "plain_text",
+  "dataset_name": "hans",
+  "dataset_size": 31809292,
+  "description": "The HANS dataset is an NLI evaluation set that tests specific hypotheses about invalid heuristics that NLI models are likely to learn.\n",
+  "download_checksums": {
+    "https://raw.githubusercontent.com/tommccoy1/hans/master/heuristics_train_set.txt": {
+      "num_bytes": 15485296,
+      "checksum": null
+    },
+    "https://raw.githubusercontent.com/tommccoy1/hans/master/heuristics_evaluation_set.txt": {
+      "num_bytes": 15462062,
+      "checksum": null
+    }
+  },
+  "download_size": 30947358,
+  "features": {
+    "premise": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "hypothesis": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label": {
+      "names": [
+        "entailment",
+        "non-entailment"
+      ],
+      "_type": "ClassLabel"
+    },
+    "parse_premise": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "parse_hypothesis": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "binary_parse_premise": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "binary_parse_hypothesis": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "heuristic": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "subcase": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "template": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "https://github.com/tommccoy1/hans",
+  "license": "",
+  "size_in_bytes": 62756650,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 15916263,
+      "num_examples": 30000,
+      "dataset_name": "hans"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 15893029,
+      "num_examples": 30000,
+      "dataset_name": "hans"
+    }
+  },
+  "version": {
+    "version_str": "1.0.0",
+    "description": "",
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

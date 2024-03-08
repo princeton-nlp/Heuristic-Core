@@ -1,0 +1,3428 @@
+{
+    "42": {
+        "500": {
+            "25": {
+                "validation_matched": 0.7167600393295288,
+                "validation_mismatched": 0.7343368530273438,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.008999999612569809,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "30": {
+                "validation_matched": 0.7149261236190796,
+                "validation_mismatched": 0.7305736541748047,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.007000000216066837,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "35": {
+                "validation_matched": 0.7048395276069641,
+                "validation_mismatched": 0.7269121408462524,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.007000000216066837,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "40": {
+                "validation_matched": 0.7003566026687622,
+                "validation_mismatched": 0.7222335338592529,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.003000000026077032,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "45": {
+                "validation_matched": 0.7011716961860657,
+                "validation_mismatched": 0.722945511341095,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.007000000216066837,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "50": {
+                "validation_matched": 0.6965868473052979,
+                "validation_mismatched": 0.7155207395553589,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0020000000949949026,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "55": {
+                "validation_matched": 0.678145706653595,
+                "validation_mismatched": 0.7009764313697815,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "60": {
+                "validation_matched": 0.679673969745636,
+                "validation_mismatched": 0.7030105590820312,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0010000000474974513,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.6609271764755249,
+                "validation_mismatched": 0.686940610408783,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.003000000026077032,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.6539989709854126,
+                "validation_mismatched": 0.6784988045692444,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "5": {
+                "validation_matched": 0.6899643540382385,
+                "validation_mismatched": 0.7126728892326355,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.004999999888241291,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "10": {
+                "validation_matched": 0.7197147011756897,
+                "validation_mismatched": 0.7395240068435669,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.014999999664723873,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "15": {
+                "validation_matched": 0.7192053198814392,
+                "validation_mismatched": 0.7362692952156067,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.014000000432133675,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "20": {
+                "validation_matched": 0.7138053774833679,
+                "validation_mismatched": 0.7371847033500671,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.023000000044703484,
+                "constituent_cn_embedded_under_verb": 0.0
+            }
+        },
+        "6500": {
+            "25": {
+                "validation_matched": 0.8116148710250854,
+                "validation_mismatched": 0.8135679364204407,
+                "lexical_overlap_ln_preposition": 0.003000000026077032,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.01600000075995922,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "30": {
+                "validation_matched": 0.8104941248893738,
+                "validation_mismatched": 0.8102115392684937,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.004999999888241291,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "35": {
+                "validation_matched": 0.8087620735168457,
+                "validation_mismatched": 0.8109235167503357,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.020999999716877937,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "40": {
+                "validation_matched": 0.7967396974563599,
+                "validation_mismatched": 0.8002440929412842,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.00800000037997961,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "45": {
+                "validation_matched": 0.7907284498214722,
+                "validation_mismatched": 0.7970911264419556,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.007000000216066837,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "50": {
+                "validation_matched": 0.7879775762557983,
+                "validation_mismatched": 0.7898697853088379,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.019999999552965164,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "55": {
+                "validation_matched": 0.775140106678009,
+                "validation_mismatched": 0.7814279794692993,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.05000000074505806,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "60": {
+                "validation_matched": 0.7617931962013245,
+                "validation_mismatched": 0.7671887874603271,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.02199999988079071,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.7416199445724487,
+                "validation_mismatched": 0.7503051161766052,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0010000000474974513,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.7110545039176941,
+                "validation_mismatched": 0.7262001633644104,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0020000000949949026,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "5": {
+                "validation_matched": 0.7881813645362854,
+                "validation_mismatched": 0.7955654859542847,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0010000000474974513,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "10": {
+                "validation_matched": 0.814162015914917,
+                "validation_mismatched": 0.8172294497489929,
+                "lexical_overlap_ln_preposition": 0.009999999776482582,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.023000000044703484,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "15": {
+                "validation_matched": 0.8131431341171265,
+                "validation_mismatched": 0.8158055543899536,
+                "lexical_overlap_ln_preposition": 0.006000000052154064,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.01899999938905239,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "20": {
+                "validation_matched": 0.8131431341171265,
+                "validation_mismatched": 0.8167209029197693,
+                "lexical_overlap_ln_preposition": 0.003000000026077032,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.023000000044703484,
+                "constituent_cn_embedded_under_verb": 0.0
+            }
+        },
+        "12500": {
+            "25": {
+                "validation_matched": 0.8240448236465454,
+                "validation_mismatched": 0.832587480545044,
+                "lexical_overlap_ln_preposition": 0.09000000357627869,
+                "lexical_overlap_ln_subject-object_swap": 0.032999999821186066,
+                "constituent_cn_embedded_under_if": 0.02500000037252903,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "30": {
+                "validation_matched": 0.817014753818512,
+                "validation_mismatched": 0.8259764313697815,
+                "lexical_overlap_ln_preposition": 0.3149999976158142,
+                "lexical_overlap_ln_subject-object_swap": 0.11800000071525574,
+                "constituent_cn_embedded_under_if": 0.041999999433755875,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "35": {
+                "validation_matched": 0.8169128894805908,
+                "validation_mismatched": 0.8256712555885315,
+                "lexical_overlap_ln_preposition": 0.08900000154972076,
+                "lexical_overlap_ln_subject-object_swap": 0.035999998450279236,
+                "constituent_cn_embedded_under_if": 0.052000001072883606,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "40": {
+                "validation_matched": 0.8130412697792053,
+                "validation_mismatched": 0.8203824162483215,
+                "lexical_overlap_ln_preposition": 0.04600000008940697,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.014000000432133675,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "45": {
+                "validation_matched": 0.8053998947143555,
+                "validation_mismatched": 0.8141781687736511,
+                "lexical_overlap_ln_preposition": 0.017999999225139618,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0010000000474974513,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "50": {
+                "validation_matched": 0.7997962236404419,
+                "validation_mismatched": 0.8074654340744019,
+                "lexical_overlap_ln_preposition": 0.00800000037997961,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.004999999888241291,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "55": {
+                "validation_matched": 0.7957208156585693,
+                "validation_mismatched": 0.7992269992828369,
+                "lexical_overlap_ln_preposition": 0.006000000052154064,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "60": {
+                "validation_matched": 0.784207820892334,
+                "validation_mismatched": 0.7894629836082458,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.00800000037997961,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.7596535682678223,
+                "validation_mismatched": 0.7693246603012085,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.7326540946960449,
+                "validation_mismatched": 0.7414564490318298,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.006000000052154064,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "5": {
+                "validation_matched": 0.7973510026931763,
+                "validation_mismatched": 0.809296190738678,
+                "lexical_overlap_ln_preposition": 0.039000000804662704,
+                "lexical_overlap_ln_subject-object_swap": 0.0020000000949949026,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "10": {
+                "validation_matched": 0.8277126550674438,
+                "validation_mismatched": 0.8376728892326355,
+                "lexical_overlap_ln_preposition": 0.22300000488758087,
+                "lexical_overlap_ln_subject-object_swap": 0.19900000095367432,
+                "constituent_cn_embedded_under_if": 0.04899999871850014,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "15": {
+                "validation_matched": 0.8280183672904968,
+                "validation_mismatched": 0.8339096903800964,
+                "lexical_overlap_ln_preposition": 0.2280000001192093,
+                "lexical_overlap_ln_subject-object_swap": 0.1379999965429306,
+                "constituent_cn_embedded_under_if": 0.04500000178813934,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "20": {
+                "validation_matched": 0.8233316540718079,
+                "validation_mismatched": 0.8328925967216492,
+                "lexical_overlap_ln_preposition": 0.16099999845027924,
+                "lexical_overlap_ln_subject-object_swap": 0.16200000047683716,
+                "constituent_cn_embedded_under_if": 0.027000000700354576,
+                "constituent_cn_embedded_under_verb": 0.0
+            }
+        },
+        "18500": {
+            "25": {
+                "validation_matched": 0.8259806632995605,
+                "validation_mismatched": 0.8301464319229126,
+                "lexical_overlap_ln_preposition": 0.24699999392032623,
+                "lexical_overlap_ln_subject-object_swap": 0.2150000035762787,
+                "constituent_cn_embedded_under_if": 0.09600000083446503,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "30": {
+                "validation_matched": 0.8160977959632874,
+                "validation_mismatched": 0.824349045753479,
+                "lexical_overlap_ln_preposition": 0.17000000178813934,
+                "lexical_overlap_ln_subject-object_swap": 0.09000000357627869,
+                "constituent_cn_embedded_under_if": 0.15299999713897705,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "35": {
+                "validation_matched": 0.8112073540687561,
+                "validation_mismatched": 0.8203824162483215,
+                "lexical_overlap_ln_preposition": 0.08100000023841858,
+                "lexical_overlap_ln_subject-object_swap": 0.04500000178813934,
+                "constituent_cn_embedded_under_if": 0.017999999225139618,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "40": {
+                "validation_matched": 0.8153846263885498,
+                "validation_mismatched": 0.8189585208892822,
+                "lexical_overlap_ln_preposition": 0.08299999684095383,
+                "lexical_overlap_ln_subject-object_swap": 0.03099999949336052,
+                "constituent_cn_embedded_under_if": 0.039000000804662704,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "45": {
+                "validation_matched": 0.8069281578063965,
+                "validation_mismatched": 0.8148901462554932,
+                "lexical_overlap_ln_preposition": 0.09300000220537186,
+                "lexical_overlap_ln_subject-object_swap": 0.04800000041723251,
+                "constituent_cn_embedded_under_if": 0.03200000151991844,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "50": {
+                "validation_matched": 0.8057055473327637,
+                "validation_mismatched": 0.8151952624320984,
+                "lexical_overlap_ln_preposition": 0.0729999989271164,
+                "lexical_overlap_ln_subject-object_swap": 0.01600000075995922,
+                "constituent_cn_embedded_under_if": 0.007000000216066837,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "55": {
+                "validation_matched": 0.7964340448379517,
+                "validation_mismatched": 0.803295373916626,
+                "lexical_overlap_ln_preposition": 0.050999999046325684,
+                "lexical_overlap_ln_subject-object_swap": 0.014999999664723873,
+                "constituent_cn_embedded_under_if": 0.003000000026077032,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "60": {
+                "validation_matched": 0.7841059565544128,
+                "validation_mismatched": 0.7935312986373901,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.7680081725120544,
+                "validation_mismatched": 0.7755289077758789,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.004000000189989805,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.7415180802345276,
+                "validation_mismatched": 0.7513222098350525,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "5": {
+                "validation_matched": 0.7975547909736633,
+                "validation_mismatched": 0.8060414791107178,
+                "lexical_overlap_ln_preposition": 0.010999999940395355,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.007000000216066837,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "10": {
+                "validation_matched": 0.8275089263916016,
+                "validation_mismatched": 0.835943877696991,
+                "lexical_overlap_ln_preposition": 0.29899999499320984,
+                "lexical_overlap_ln_subject-object_swap": 0.3959999978542328,
+                "constituent_cn_embedded_under_if": 0.10899999737739563,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "15": {
+                "validation_matched": 0.8269994854927063,
+                "validation_mismatched": 0.8346216678619385,
+                "lexical_overlap_ln_preposition": 0.2930000126361847,
+                "lexical_overlap_ln_subject-object_swap": 0.328000009059906,
+                "constituent_cn_embedded_under_if": 0.17800000309944153,
+                "constituent_cn_embedded_under_verb": 0.0010000000474974513
+            },
+            "20": {
+                "validation_matched": 0.8241466879844666,
+                "validation_mismatched": 0.8308584094047546,
+                "lexical_overlap_ln_preposition": 0.2930000126361847,
+                "lexical_overlap_ln_subject-object_swap": 0.3490000069141388,
+                "constituent_cn_embedded_under_if": 0.05700000002980232,
+                "constituent_cn_embedded_under_verb": 0.0010000000474974513
+            }
+        },
+        "24500": {
+            "25": {
+                "validation_matched": 0.8305654525756836,
+                "validation_mismatched": 0.8354353308677673,
+                "lexical_overlap_ln_preposition": 0.37700000405311584,
+                "lexical_overlap_ln_subject-object_swap": 0.421999990940094,
+                "constituent_cn_embedded_under_if": 0.06700000166893005,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "30": {
+                "validation_matched": 0.8269994854927063,
+                "validation_mismatched": 0.8293327689170837,
+                "lexical_overlap_ln_preposition": 0.3019999861717224,
+                "lexical_overlap_ln_subject-object_swap": 0.29499998688697815,
+                "constituent_cn_embedded_under_if": 0.20800000429153442,
+                "constituent_cn_embedded_under_verb": 0.06599999964237213
+            },
+            "35": {
+                "validation_matched": 0.8222109079360962,
+                "validation_mismatched": 0.8255695700645447,
+                "lexical_overlap_ln_preposition": 0.24500000476837158,
+                "lexical_overlap_ln_subject-object_swap": 0.1550000011920929,
+                "constituent_cn_embedded_under_if": 0.12200000137090683,
+                "constituent_cn_embedded_under_verb": 0.007000000216066837
+            },
+            "40": {
+                "validation_matched": 0.818543016910553,
+                "validation_mismatched": 0.8222131729125977,
+                "lexical_overlap_ln_preposition": 0.20600000023841858,
+                "lexical_overlap_ln_subject-object_swap": 0.1340000033378601,
+                "constituent_cn_embedded_under_if": 0.19300000369548798,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "45": {
+                "validation_matched": 0.8137544393539429,
+                "validation_mismatched": 0.8139747977256775,
+                "lexical_overlap_ln_preposition": 0.04100000113248825,
+                "lexical_overlap_ln_subject-object_swap": 0.009999999776482582,
+                "constituent_cn_embedded_under_if": 0.1979999989271164,
+                "constituent_cn_embedded_under_verb": 0.039000000804662704
+            },
+            "50": {
+                "validation_matched": 0.8112073540687561,
+                "validation_mismatched": 0.8151952624320984,
+                "lexical_overlap_ln_preposition": 0.0689999982714653,
+                "lexical_overlap_ln_subject-object_swap": 0.02199999988079071,
+                "constituent_cn_embedded_under_if": 0.020999999716877937,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "55": {
+                "validation_matched": 0.8004075288772583,
+                "validation_mismatched": 0.8058381080627441,
+                "lexical_overlap_ln_preposition": 0.01600000075995922,
+                "lexical_overlap_ln_subject-object_swap": 0.00800000037997961,
+                "constituent_cn_embedded_under_if": 0.020999999716877937,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "60": {
+                "validation_matched": 0.7915435433387756,
+                "validation_mismatched": 0.7940398454666138,
+                "lexical_overlap_ln_preposition": 0.0010000000474974513,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.03099999949336052,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.765562891960144,
+                "validation_mismatched": 0.7702400088310242,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.02500000037252903,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.7424350380897522,
+                "validation_mismatched": 0.750711977481842,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0020000000949949026,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "5": {
+                "validation_matched": 0.8075394630432129,
+                "validation_mismatched": 0.8089910745620728,
+                "lexical_overlap_ln_preposition": 0.08100000023841858,
+                "lexical_overlap_ln_subject-object_swap": 0.039000000804662704,
+                "constituent_cn_embedded_under_if": 0.027000000700354576,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "10": {
+                "validation_matched": 0.8337239027023315,
+                "validation_mismatched": 0.838995099067688,
+                "lexical_overlap_ln_preposition": 0.49900001287460327,
+                "lexical_overlap_ln_subject-object_swap": 0.5789999961853027,
+                "constituent_cn_embedded_under_if": 0.23000000417232513,
+                "constituent_cn_embedded_under_verb": 0.07900000363588333
+            },
+            "15": {
+                "validation_matched": 0.8326031565666199,
+                "validation_mismatched": 0.8393002152442932,
+                "lexical_overlap_ln_preposition": 0.4429999887943268,
+                "lexical_overlap_ln_subject-object_swap": 0.46299999952316284,
+                "constituent_cn_embedded_under_if": 0.23199999332427979,
+                "constituent_cn_embedded_under_verb": 0.06700000166893005
+            },
+            "20": {
+                "validation_matched": 0.8314824104309082,
+                "validation_mismatched": 0.8361472487449646,
+                "lexical_overlap_ln_preposition": 0.4099999964237213,
+                "lexical_overlap_ln_subject-object_swap": 0.48100000619888306,
+                "constituent_cn_embedded_under_if": 0.210999995470047,
+                "constituent_cn_embedded_under_verb": 0.057999998331069946
+            }
+        },
+        "30500": {
+            "25": {
+                "validation_matched": 0.8323993682861328,
+                "validation_mismatched": 0.8327909111976624,
+                "lexical_overlap_ln_preposition": 0.5889999866485596,
+                "lexical_overlap_ln_subject-object_swap": 0.6119999885559082,
+                "constituent_cn_embedded_under_if": 0.09099999815225601,
+                "constituent_cn_embedded_under_verb": 0.13699999451637268
+            },
+            "30": {
+                "validation_matched": 0.8274070024490356,
+                "validation_mismatched": 0.8276037573814392,
+                "lexical_overlap_ln_preposition": 0.3310000002384186,
+                "lexical_overlap_ln_subject-object_swap": 0.27900001406669617,
+                "constituent_cn_embedded_under_if": 0.10100000351667404,
+                "constituent_cn_embedded_under_verb": 0.009999999776482582
+            },
+            "35": {
+                "validation_matched": 0.8240448236465454,
+                "validation_mismatched": 0.8258746862411499,
+                "lexical_overlap_ln_preposition": 0.46000000834465027,
+                "lexical_overlap_ln_subject-object_swap": 0.40799999237060547,
+                "constituent_cn_embedded_under_if": 0.15800000727176666,
+                "constituent_cn_embedded_under_verb": 0.039000000804662704
+            },
+            "40": {
+                "validation_matched": 0.8257768750190735,
+                "validation_mismatched": 0.824349045753479,
+                "lexical_overlap_ln_preposition": 0.3089999854564667,
+                "lexical_overlap_ln_subject-object_swap": 0.20100000500679016,
+                "constituent_cn_embedded_under_if": 0.09200000017881393,
+                "constituent_cn_embedded_under_verb": 0.03999999910593033
+            },
+            "45": {
+                "validation_matched": 0.8176260590553284,
+                "validation_mismatched": 0.8220097422599792,
+                "lexical_overlap_ln_preposition": 0.2160000056028366,
+                "lexical_overlap_ln_subject-object_swap": 0.1589999943971634,
+                "constituent_cn_embedded_under_if": 0.027000000700354576,
+                "constituent_cn_embedded_under_verb": 0.007000000216066837
+            },
+            "50": {
+                "validation_matched": 0.8121243119239807,
+                "validation_mismatched": 0.8115337491035461,
+                "lexical_overlap_ln_preposition": 0.032999999821186066,
+                "lexical_overlap_ln_subject-object_swap": 0.009999999776482582,
+                "constituent_cn_embedded_under_if": 0.03200000151991844,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "55": {
+                "validation_matched": 0.8013244867324829,
+                "validation_mismatched": 0.8038039207458496,
+                "lexical_overlap_ln_preposition": 0.007000000216066837,
+                "lexical_overlap_ln_subject-object_swap": 0.0010000000474974513,
+                "constituent_cn_embedded_under_if": 0.04399999976158142,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "60": {
+                "validation_matched": 0.7944982051849365,
+                "validation_mismatched": 0.7932261824607849,
+                "lexical_overlap_ln_preposition": 0.0020000000949949026,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.020999999716877937,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.768721342086792,
+                "validation_mismatched": 0.775935709476471,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.7511971592903137,
+                "validation_mismatched": 0.7572213411331177,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.014000000432133675,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "5": {
+                "validation_matched": 0.8095771670341492,
+                "validation_mismatched": 0.8141781687736511,
+                "lexical_overlap_ln_preposition": 0.028999999165534973,
+                "lexical_overlap_ln_subject-object_swap": 0.0020000000949949026,
+                "constituent_cn_embedded_under_if": 0.0020000000949949026,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "10": {
+                "validation_matched": 0.8331125974655151,
+                "validation_mismatched": 0.838588297367096,
+                "lexical_overlap_ln_preposition": 0.597000002861023,
+                "lexical_overlap_ln_subject-object_swap": 0.671999990940094,
+                "constituent_cn_embedded_under_if": 0.0729999989271164,
+                "constituent_cn_embedded_under_verb": 0.12399999797344208
+            },
+            "15": {
+                "validation_matched": 0.8347427248954773,
+                "validation_mismatched": 0.8351302146911621,
+                "lexical_overlap_ln_preposition": 0.5239999890327454,
+                "lexical_overlap_ln_subject-object_swap": 0.5550000071525574,
+                "constituent_cn_embedded_under_if": 0.06800000369548798,
+                "constituent_cn_embedded_under_verb": 0.10100000351667404
+            },
+            "20": {
+                "validation_matched": 0.8332144618034363,
+                "validation_mismatched": 0.8365541100502014,
+                "lexical_overlap_ln_preposition": 0.531000018119812,
+                "lexical_overlap_ln_subject-object_swap": 0.6269999742507935,
+                "constituent_cn_embedded_under_if": 0.08799999952316284,
+                "constituent_cn_embedded_under_verb": 0.10000000149011612
+            }
+        },
+        "36500": {
+            "25": {
+                "validation_matched": 0.8316861987113953,
+                "validation_mismatched": 0.8358421325683594,
+                "lexical_overlap_ln_preposition": 0.35600000619888306,
+                "lexical_overlap_ln_subject-object_swap": 0.35899999737739563,
+                "constituent_cn_embedded_under_if": 0.24199999868869781,
+                "constituent_cn_embedded_under_verb": 0.10599999874830246
+            },
+            "30": {
+                "validation_matched": 0.8288334012031555,
+                "validation_mismatched": 0.8338079452514648,
+                "lexical_overlap_ln_preposition": 0.3070000112056732,
+                "lexical_overlap_ln_subject-object_swap": 0.3490000069141388,
+                "constituent_cn_embedded_under_if": 0.25200000405311584,
+                "constituent_cn_embedded_under_verb": 0.09099999815225601
+            },
+            "35": {
+                "validation_matched": 0.8263881802558899,
+                "validation_mismatched": 0.8286208510398865,
+                "lexical_overlap_ln_preposition": 0.22300000488758087,
+                "lexical_overlap_ln_subject-object_swap": 0.16599999368190765,
+                "constituent_cn_embedded_under_if": 0.1589999943971634,
+                "constituent_cn_embedded_under_verb": 0.017000000923871994
+            },
+            "40": {
+                "validation_matched": 0.8244523406028748,
+                "validation_mismatched": 0.8226200342178345,
+                "lexical_overlap_ln_preposition": 0.1599999964237213,
+                "lexical_overlap_ln_subject-object_swap": 0.11800000071525574,
+                "constituent_cn_embedded_under_if": 0.2150000035762787,
+                "constituent_cn_embedded_under_verb": 0.01600000075995922
+            },
+            "45": {
+                "validation_matched": 0.8177279829978943,
+                "validation_mismatched": 0.8210943937301636,
+                "lexical_overlap_ln_preposition": 0.08299999684095383,
+                "lexical_overlap_ln_subject-object_swap": 0.050999999046325684,
+                "constituent_cn_embedded_under_if": 0.19200000166893005,
+                "constituent_cn_embedded_under_verb": 0.0010000000474974513
+            },
+            "50": {
+                "validation_matched": 0.8118186593055725,
+                "validation_mismatched": 0.8144833445549011,
+                "lexical_overlap_ln_preposition": 0.0430000014603138,
+                "lexical_overlap_ln_subject-object_swap": 0.010999999940395355,
+                "constituent_cn_embedded_under_if": 0.10700000077486038,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "55": {
+                "validation_matched": 0.8075394630432129,
+                "validation_mismatched": 0.8076688647270203,
+                "lexical_overlap_ln_preposition": 0.004000000189989805,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.15000000596046448,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "60": {
+                "validation_matched": 0.7934793829917908,
+                "validation_mismatched": 0.801057755947113,
+                "lexical_overlap_ln_preposition": 0.003000000026077032,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.019999999552965164,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.774936318397522,
+                "validation_mismatched": 0.782648503780365,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.7471217513084412,
+                "validation_mismatched": 0.7553905844688416,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "5": {
+                "validation_matched": 0.8077432513237,
+                "validation_mismatched": 0.8151952624320984,
+                "lexical_overlap_ln_preposition": 0.008999999612569809,
+                "lexical_overlap_ln_subject-object_swap": 0.0010000000474974513,
+                "constituent_cn_embedded_under_if": 0.03099999949336052,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "10": {
+                "validation_matched": 0.8356596827507019,
+                "validation_mismatched": 0.8438771367073059,
+                "lexical_overlap_ln_preposition": 0.4830000102519989,
+                "lexical_overlap_ln_subject-object_swap": 0.5830000042915344,
+                "constituent_cn_embedded_under_if": 0.2619999945163727,
+                "constituent_cn_embedded_under_verb": 0.16899999976158142
+            },
+            "15": {
+                "validation_matched": 0.8320937156677246,
+                "validation_mismatched": 0.8443856835365295,
+                "lexical_overlap_ln_preposition": 0.4169999957084656,
+                "lexical_overlap_ln_subject-object_swap": 0.4569999873638153,
+                "constituent_cn_embedded_under_if": 0.27300000190734863,
+                "constituent_cn_embedded_under_verb": 0.16099999845027924
+            },
+            "20": {
+                "validation_matched": 0.8346408605575562,
+                "validation_mismatched": 0.8403173089027405,
+                "lexical_overlap_ln_preposition": 0.36500000953674316,
+                "lexical_overlap_ln_subject-object_swap": 0.4180000126361847,
+                "constituent_cn_embedded_under_if": 0.2770000100135803,
+                "constituent_cn_embedded_under_verb": 0.06199999898672104
+            }
+        },
+        "42500": {
+            "25": {
+                "validation_matched": 0.8294447064399719,
+                "validation_mismatched": 0.8331977128982544,
+                "lexical_overlap_ln_preposition": 0.4189999997615814,
+                "lexical_overlap_ln_subject-object_swap": 0.492000013589859,
+                "constituent_cn_embedded_under_if": 0.19300000369548798,
+                "constituent_cn_embedded_under_verb": 0.19499999284744263
+            },
+            "30": {
+                "validation_matched": 0.8302597999572754,
+                "validation_mismatched": 0.8298413157463074,
+                "lexical_overlap_ln_preposition": 0.6399999856948853,
+                "lexical_overlap_ln_subject-object_swap": 0.7720000147819519,
+                "constituent_cn_embedded_under_if": 0.1809999942779541,
+                "constituent_cn_embedded_under_verb": 0.23100000619888306
+            },
+            "35": {
+                "validation_matched": 0.8231278657913208,
+                "validation_mismatched": 0.8249593377113342,
+                "lexical_overlap_ln_preposition": 0.671999990940094,
+                "lexical_overlap_ln_subject-object_swap": 0.8209999799728394,
+                "constituent_cn_embedded_under_if": 0.22300000488758087,
+                "constituent_cn_embedded_under_verb": 0.0820000022649765
+            },
+            "40": {
+                "validation_matched": 0.8226184248924255,
+                "validation_mismatched": 0.8251627087593079,
+                "lexical_overlap_ln_preposition": 0.38100001215934753,
+                "lexical_overlap_ln_subject-object_swap": 0.4410000145435333,
+                "constituent_cn_embedded_under_if": 0.1550000011920929,
+                "constituent_cn_embedded_under_verb": 0.16899999976158142
+            },
+            "45": {
+                "validation_matched": 0.8177279829978943,
+                "validation_mismatched": 0.8188567757606506,
+                "lexical_overlap_ln_preposition": 0.33399999141693115,
+                "lexical_overlap_ln_subject-object_swap": 0.42800000309944153,
+                "constituent_cn_embedded_under_if": 0.20000000298023224,
+                "constituent_cn_embedded_under_verb": 0.0729999989271164
+            },
+            "50": {
+                "validation_matched": 0.8152827024459839,
+                "validation_mismatched": 0.81529700756073,
+                "lexical_overlap_ln_preposition": 0.061000000685453415,
+                "lexical_overlap_ln_subject-object_swap": 0.03200000151991844,
+                "constituent_cn_embedded_under_if": 0.12300000339746475,
+                "constituent_cn_embedded_under_verb": 0.07000000029802322
+            },
+            "55": {
+                "validation_matched": 0.8051961064338684,
+                "validation_mismatched": 0.8083807826042175,
+                "lexical_overlap_ln_preposition": 0.020999999716877937,
+                "lexical_overlap_ln_subject-object_swap": 0.024000000208616257,
+                "constituent_cn_embedded_under_if": 0.02500000037252903,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "60": {
+                "validation_matched": 0.7948038578033447,
+                "validation_mismatched": 0.7989218831062317,
+                "lexical_overlap_ln_preposition": 0.008999999612569809,
+                "lexical_overlap_ln_subject-object_swap": 0.004000000189989805,
+                "constituent_cn_embedded_under_if": 0.004999999888241291,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.7720835208892822,
+                "validation_mismatched": 0.7731896042823792,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0020000000949949026,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.7409067749977112,
+                "validation_mismatched": 0.7488812208175659,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "5": {
+                "validation_matched": 0.8152827024459839,
+                "validation_mismatched": 0.818653404712677,
+                "lexical_overlap_ln_preposition": 0.24300000071525574,
+                "lexical_overlap_ln_subject-object_swap": 0.28299999237060547,
+                "constituent_cn_embedded_under_if": 0.04699999839067459,
+                "constituent_cn_embedded_under_verb": 0.0010000000474974513
+            },
+            "10": {
+                "validation_matched": 0.8341314196586609,
+                "validation_mismatched": 0.8421480655670166,
+                "lexical_overlap_ln_preposition": 0.6179999709129333,
+                "lexical_overlap_ln_subject-object_swap": 0.8519999980926514,
+                "constituent_cn_embedded_under_if": 0.14000000059604645,
+                "constituent_cn_embedded_under_verb": 0.2029999941587448
+            },
+            "15": {
+                "validation_matched": 0.8303616642951965,
+                "validation_mismatched": 0.8395036458969116,
+                "lexical_overlap_ln_preposition": 0.5690000057220459,
+                "lexical_overlap_ln_subject-object_swap": 0.7720000147819519,
+                "constituent_cn_embedded_under_if": 0.1340000033378601,
+                "constituent_cn_embedded_under_verb": 0.1979999989271164
+            },
+            "20": {
+                "validation_matched": 0.832705020904541,
+                "validation_mismatched": 0.8371643424034119,
+                "lexical_overlap_ln_preposition": 0.6069999933242798,
+                "lexical_overlap_ln_subject-object_swap": 0.8130000233650208,
+                "constituent_cn_embedded_under_if": 0.17100000381469727,
+                "constituent_cn_embedded_under_verb": 0.19300000369548798
+            }
+        },
+        "48500": {
+            "25": {
+                "validation_matched": 0.8319918513298035,
+                "validation_mismatched": 0.8323840498924255,
+                "lexical_overlap_ln_preposition": 0.6869999766349792,
+                "lexical_overlap_ln_subject-object_swap": 0.7919999957084656,
+                "constituent_cn_embedded_under_if": 0.2939999997615814,
+                "constituent_cn_embedded_under_verb": 0.2980000078678131
+            },
+            "30": {
+                "validation_matched": 0.8322975039482117,
+                "validation_mismatched": 0.8295361995697021,
+                "lexical_overlap_ln_preposition": 0.6140000224113464,
+                "lexical_overlap_ln_subject-object_swap": 0.7329999804496765,
+                "constituent_cn_embedded_under_if": 0.26100000739097595,
+                "constituent_cn_embedded_under_verb": 0.16500000655651093
+            },
+            "35": {
+                "validation_matched": 0.829648494720459,
+                "validation_mismatched": 0.8315703868865967,
+                "lexical_overlap_ln_preposition": 0.6850000023841858,
+                "lexical_overlap_ln_subject-object_swap": 0.621999979019165,
+                "constituent_cn_embedded_under_if": 0.375,
+                "constituent_cn_embedded_under_verb": 0.2160000056028366
+            },
+            "40": {
+                "validation_matched": 0.8258787393569946,
+                "validation_mismatched": 0.8261798024177551,
+                "lexical_overlap_ln_preposition": 0.375,
+                "lexical_overlap_ln_subject-object_swap": 0.3529999852180481,
+                "constituent_cn_embedded_under_if": 0.21199999749660492,
+                "constituent_cn_embedded_under_verb": 0.11500000208616257
+            },
+            "45": {
+                "validation_matched": 0.8206826448440552,
+                "validation_mismatched": 0.8160089254379272,
+                "lexical_overlap_ln_preposition": 0.1509999930858612,
+                "lexical_overlap_ln_subject-object_swap": 0.05299999937415123,
+                "constituent_cn_embedded_under_if": 0.5,
+                "constituent_cn_embedded_under_verb": 0.21899999678134918
+            },
+            "50": {
+                "validation_matched": 0.8175241947174072,
+                "validation_mismatched": 0.8165174722671509,
+                "lexical_overlap_ln_preposition": 0.22100000083446503,
+                "lexical_overlap_ln_subject-object_swap": 0.1459999978542328,
+                "constituent_cn_embedded_under_if": 0.22499999403953552,
+                "constituent_cn_embedded_under_verb": 0.04800000041723251
+            },
+            "55": {
+                "validation_matched": 0.806113064289093,
+                "validation_mismatched": 0.8073636889457703,
+                "lexical_overlap_ln_preposition": 0.07699999958276749,
+                "lexical_overlap_ln_subject-object_swap": 0.03700000047683716,
+                "constituent_cn_embedded_under_if": 0.017999999225139618,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "60": {
+                "validation_matched": 0.7970453500747681,
+                "validation_mismatched": 0.7992269992828369,
+                "lexical_overlap_ln_preposition": 0.006000000052154064,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.7706571817398071,
+                "validation_mismatched": 0.776647686958313,
+                "lexical_overlap_ln_preposition": 0.003000000026077032,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.02800000086426735,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.7354049682617188,
+                "validation_mismatched": 0.7461350560188293,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0010000000474974513,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "5": {
+                "validation_matched": 0.8191543817520142,
+                "validation_mismatched": 0.8218063712120056,
+                "lexical_overlap_ln_preposition": 0.10000000149011612,
+                "lexical_overlap_ln_subject-object_swap": 0.04600000008940697,
+                "constituent_cn_embedded_under_if": 0.3149999976158142,
+                "constituent_cn_embedded_under_verb": 0.06599999964237213
+            },
+            "10": {
+                "validation_matched": 0.8331125974655151,
+                "validation_mismatched": 0.8376728892326355,
+                "lexical_overlap_ln_preposition": 0.7730000019073486,
+                "lexical_overlap_ln_subject-object_swap": 0.8870000243186951,
+                "constituent_cn_embedded_under_if": 0.26899999380111694,
+                "constituent_cn_embedded_under_verb": 0.2980000078678131
+            },
+            "15": {
+                "validation_matched": 0.8305654525756836,
+                "validation_mismatched": 0.8379780054092407,
+                "lexical_overlap_ln_preposition": 0.7509999871253967,
+                "lexical_overlap_ln_subject-object_swap": 0.8930000066757202,
+                "constituent_cn_embedded_under_if": 0.27300000190734863,
+                "constituent_cn_embedded_under_verb": 0.2680000066757202
+            },
+            "20": {
+                "validation_matched": 0.8308711051940918,
+                "validation_mismatched": 0.837062656879425,
+                "lexical_overlap_ln_preposition": 0.6740000247955322,
+                "lexical_overlap_ln_subject-object_swap": 0.7609999775886536,
+                "constituent_cn_embedded_under_if": 0.2720000147819519,
+                "constituent_cn_embedded_under_verb": 0.2930000126361847
+            }
+        },
+        "54500": {
+            "25": {
+                "validation_matched": 0.8332144618034363,
+                "validation_mismatched": 0.8336045742034912,
+                "lexical_overlap_ln_preposition": 0.6790000200271606,
+                "lexical_overlap_ln_subject-object_swap": 0.7630000114440918,
+                "constituent_cn_embedded_under_if": 0.335999995470047,
+                "constituent_cn_embedded_under_verb": 0.2630000114440918
+            },
+            "30": {
+                "validation_matched": 0.8307692408561707,
+                "validation_mismatched": 0.8330960273742676,
+                "lexical_overlap_ln_preposition": 0.49300000071525574,
+                "lexical_overlap_ln_subject-object_swap": 0.5410000085830688,
+                "constituent_cn_embedded_under_if": 0.382999986410141,
+                "constituent_cn_embedded_under_verb": 0.26600000262260437
+            },
+            "35": {
+                "validation_matched": 0.8317880630493164,
+                "validation_mismatched": 0.8306549787521362,
+                "lexical_overlap_ln_preposition": 0.4269999861717224,
+                "lexical_overlap_ln_subject-object_swap": 0.46399998664855957,
+                "constituent_cn_embedded_under_if": 0.527999997138977,
+                "constituent_cn_embedded_under_verb": 0.30300000309944153
+            },
+            "40": {
+                "validation_matched": 0.8278145790100098,
+                "validation_mismatched": 0.8265866637229919,
+                "lexical_overlap_ln_preposition": 0.5270000100135803,
+                "lexical_overlap_ln_subject-object_swap": 0.5299999713897705,
+                "constituent_cn_embedded_under_if": 0.31200000643730164,
+                "constituent_cn_embedded_under_verb": 0.16200000047683716
+            },
+            "45": {
+                "validation_matched": 0.8256750106811523,
+                "validation_mismatched": 0.8247559070587158,
+                "lexical_overlap_ln_preposition": 0.12600000202655792,
+                "lexical_overlap_ln_subject-object_swap": 0.08799999952316284,
+                "constituent_cn_embedded_under_if": 0.39399999380111694,
+                "constituent_cn_embedded_under_verb": 0.11299999803304672
+            },
+            "50": {
+                "validation_matched": 0.8142638802528381,
+                "validation_mismatched": 0.811940610408783,
+                "lexical_overlap_ln_preposition": 0.12099999934434891,
+                "lexical_overlap_ln_subject-object_swap": 0.0689999982714653,
+                "constituent_cn_embedded_under_if": 0.16500000655651093,
+                "constituent_cn_embedded_under_verb": 0.11999999731779099
+            },
+            "55": {
+                "validation_matched": 0.8121243119239807,
+                "validation_mismatched": 0.8087876439094543,
+                "lexical_overlap_ln_preposition": 0.03200000151991844,
+                "lexical_overlap_ln_subject-object_swap": 0.00800000037997961,
+                "constituent_cn_embedded_under_if": 0.07000000029802322,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "60": {
+                "validation_matched": 0.7964340448379517,
+                "validation_mismatched": 0.7964808940887451,
+                "lexical_overlap_ln_preposition": 0.0020000000949949026,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.014999999664723873,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.7817625999450684,
+                "validation_mismatched": 0.7834621667861938,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0949999988079071,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.7387672066688538,
+                "validation_mismatched": 0.7363710403442383,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.012000000104308128,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "5": {
+                "validation_matched": 0.8211920261383057,
+                "validation_mismatched": 0.821297824382782,
+                "lexical_overlap_ln_preposition": 0.164000004529953,
+                "lexical_overlap_ln_subject-object_swap": 0.09799999743700027,
+                "constituent_cn_embedded_under_if": 0.17000000178813934,
+                "constituent_cn_embedded_under_verb": 0.00800000037997961
+            },
+            "10": {
+                "validation_matched": 0.8366785645484924,
+                "validation_mismatched": 0.8395036458969116,
+                "lexical_overlap_ln_preposition": 0.6880000233650208,
+                "lexical_overlap_ln_subject-object_swap": 0.8140000104904175,
+                "constituent_cn_embedded_under_if": 0.33799999952316284,
+                "constituent_cn_embedded_under_verb": 0.28600001335144043
+            },
+            "15": {
+                "validation_matched": 0.8330106735229492,
+                "validation_mismatched": 0.8366557955741882,
+                "lexical_overlap_ln_preposition": 0.6069999933242798,
+                "lexical_overlap_ln_subject-object_swap": 0.6660000085830688,
+                "constituent_cn_embedded_under_if": 0.30399999022483826,
+                "constituent_cn_embedded_under_verb": 0.27300000190734863
+            },
+            "20": {
+                "validation_matched": 0.8310748934745789,
+                "validation_mismatched": 0.8368592262268066,
+                "lexical_overlap_ln_preposition": 0.6690000295639038,
+                "lexical_overlap_ln_subject-object_swap": 0.7699999809265137,
+                "constituent_cn_embedded_under_if": 0.4000000059604645,
+                "constituent_cn_embedded_under_verb": 0.2849999964237213
+            }
+        }
+    },
+    "43": {
+        "500": {
+            "5": {
+                "validation_matched": 0.6935303211212158,
+                "validation_mismatched": 0.7156224846839905,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0020000000949949026,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "10": {
+                "validation_matched": -1.0,
+                "validation_mismatched": -1.0,
+                "lexical_overlap_ln_preposition": -1.0,
+                "lexical_overlap_ln_subject-object_swap": -1.0,
+                "constituent_cn_embedded_under_if": -1.0,
+                "constituent_cn_embedded_under_verb": -1.0
+            },
+            "15": {
+                "validation_matched": 0.720427930355072,
+                "validation_mismatched": 0.7358624935150146,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.02199999988079071,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "20": {
+                "validation_matched": 0.7152317762374878,
+                "validation_mismatched": 0.7347437143325806,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.01600000075995922,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "25": {
+                "validation_matched": 0.7123790383338928,
+                "validation_mismatched": 0.7329129576683044,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.00800000037997961,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "30": {
+                "validation_matched": 0.7022923827171326,
+                "validation_mismatched": 0.7247762680053711,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.004999999888241291,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "35": {
+                "validation_matched": 0.7113601565361023,
+                "validation_mismatched": 0.7284377813339233,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.004000000189989805,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "40": {
+                "validation_matched": 0.7010697722434998,
+                "validation_mismatched": 0.7208095788955688,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.010999999940395355,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "45": {
+                "validation_matched": 0.6970962882041931,
+                "validation_mismatched": 0.7154190540313721,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0010000000474974513,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "50": {
+                "validation_matched": 0.6967906355857849,
+                "validation_mismatched": 0.7143002152442932,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0020000000949949026,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "55": {
+                "validation_matched": 0.6881304383277893,
+                "validation_mismatched": 0.7061635255813599,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.014000000432133675,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "60": {
+                "validation_matched": 0.6739684343338013,
+                "validation_mismatched": 0.6966029405593872,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.6627610921859741,
+                "validation_mismatched": 0.6911106705665588,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.6482934355735779,
+                "validation_mismatched": 0.6752440929412842,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            }
+        },
+        "6500": {
+            "5": {
+                "validation_matched": 0.7933774590492249,
+                "validation_mismatched": 0.7929210662841797,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.02800000086426735,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "10": {
+                "validation_matched": 0.8144676685333252,
+                "validation_mismatched": 0.8189585208892822,
+                "lexical_overlap_ln_preposition": 0.00800000037997961,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.01899999938905239,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "15": {
+                "validation_matched": 0.8139582276344299,
+                "validation_mismatched": 0.8171277642250061,
+                "lexical_overlap_ln_preposition": 0.004999999888241291,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.014999999664723873,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "20": {
+                "validation_matched": 0.8100866079330444,
+                "validation_mismatched": 0.8112286329269409,
+                "lexical_overlap_ln_preposition": 0.004999999888241291,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.02800000086426735,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "25": {
+                "validation_matched": 0.8096790909767151,
+                "validation_mismatched": 0.8159072399139404,
+                "lexical_overlap_ln_preposition": 0.0020000000949949026,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.012000000104308128,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "30": {
+                "validation_matched": 0.8081507682800293,
+                "validation_mismatched": 0.8068551421165466,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.013000000268220901,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "35": {
+                "validation_matched": 0.8001018762588501,
+                "validation_mismatched": 0.8068551421165466,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.017000000923871994,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "40": {
+                "validation_matched": 0.7982679605484009,
+                "validation_mismatched": 0.8011595010757446,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.008999999612569809,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "45": {
+                "validation_matched": 0.7920529842376709,
+                "validation_mismatched": 0.7978031039237976,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0430000014603138,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "50": {
+                "validation_matched": 0.7838003039360046,
+                "validation_mismatched": 0.781936526298523,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.014000000432133675,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "55": {
+                "validation_matched": 0.7728986144065857,
+                "validation_mismatched": 0.7755289077758789,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.03799999877810478,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "60": {
+                "validation_matched": 0.7540498971939087,
+                "validation_mismatched": 0.7607811093330383,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0010000000474974513,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.7429444789886475,
+                "validation_mismatched": 0.7502034306526184,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.03099999949336052,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.7145186066627502,
+                "validation_mismatched": 0.7285394668579102,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            }
+        },
+        "12500": {
+            "5": {
+                "validation_matched": 0.8055017590522766,
+                "validation_mismatched": 0.8138730525970459,
+                "lexical_overlap_ln_preposition": 0.00800000037997961,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0010000000474974513,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "10": {
+                "validation_matched": 0.8266938328742981,
+                "validation_mismatched": 0.833706259727478,
+                "lexical_overlap_ln_preposition": 0.3100000023841858,
+                "lexical_overlap_ln_subject-object_swap": 0.24699999392032623,
+                "constituent_cn_embedded_under_if": 0.04899999871850014,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "15": {
+                "validation_matched": 0.8239429593086243,
+                "validation_mismatched": 0.8345199227333069,
+                "lexical_overlap_ln_preposition": 0.24899999797344208,
+                "lexical_overlap_ln_subject-object_swap": 0.2529999911785126,
+                "constituent_cn_embedded_under_if": 0.03400000184774399,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "20": {
+                "validation_matched": 0.8225165605545044,
+                "validation_mismatched": 0.8298413157463074,
+                "lexical_overlap_ln_preposition": 0.1599999964237213,
+                "lexical_overlap_ln_subject-object_swap": 0.06700000166893005,
+                "constituent_cn_embedded_under_if": 0.009999999776482582,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "25": {
+                "validation_matched": 0.8151808381080627,
+                "validation_mismatched": 0.8264849185943604,
+                "lexical_overlap_ln_preposition": 0.15700000524520874,
+                "lexical_overlap_ln_subject-object_swap": 0.07000000029802322,
+                "constituent_cn_embedded_under_if": 0.05299999937415123,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "30": {
+                "validation_matched": 0.817218542098999,
+                "validation_mismatched": 0.8280105590820312,
+                "lexical_overlap_ln_preposition": 0.1720000058412552,
+                "lexical_overlap_ln_subject-object_swap": 0.07699999958276749,
+                "constituent_cn_embedded_under_if": 0.017999999225139618,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "35": {
+                "validation_matched": 0.8159959316253662,
+                "validation_mismatched": 0.8263832330703735,
+                "lexical_overlap_ln_preposition": 0.07900000363588333,
+                "lexical_overlap_ln_subject-object_swap": 0.008999999612569809,
+                "constituent_cn_embedded_under_if": 0.029999999329447746,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "40": {
+                "validation_matched": 0.8124299645423889,
+                "validation_mismatched": 0.8229251503944397,
+                "lexical_overlap_ln_preposition": 0.05700000002980232,
+                "lexical_overlap_ln_subject-object_swap": 0.003000000026077032,
+                "constituent_cn_embedded_under_if": 0.02199999988079071,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "45": {
+                "validation_matched": 0.8018339276313782,
+                "validation_mismatched": 0.8124491572380066,
+                "lexical_overlap_ln_preposition": 0.05000000074505806,
+                "lexical_overlap_ln_subject-object_swap": 0.019999999552965164,
+                "constituent_cn_embedded_under_if": 0.004000000189989805,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "50": {
+                "validation_matched": 0.8048904538154602,
+                "validation_mismatched": 0.8090927600860596,
+                "lexical_overlap_ln_preposition": 0.0020000000949949026,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0020000000949949026,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "55": {
+                "validation_matched": 0.7838003039360046,
+                "validation_mismatched": 0.7949552536010742,
+                "lexical_overlap_ln_preposition": 0.010999999940395355,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.003000000026077032,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "60": {
+                "validation_matched": 0.7832908630371094,
+                "validation_mismatched": 0.789056122303009,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.7665817737579346,
+                "validation_mismatched": 0.774003267288208,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.003000000026077032,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.7326540946960449,
+                "validation_mismatched": 0.7444060444831848,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0010000000474974513,
+                "constituent_cn_embedded_under_verb": 0.0
+            }
+        },
+        "18500": {
+            "5": {
+                "validation_matched": 0.7985736131668091,
+                "validation_mismatched": 0.8053295612335205,
+                "lexical_overlap_ln_preposition": 0.019999999552965164,
+                "lexical_overlap_ln_subject-object_swap": 0.0010000000474974513,
+                "constituent_cn_embedded_under_if": 0.003000000026077032,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "10": {
+                "validation_matched": 0.8260825276374817,
+                "validation_mismatched": 0.8351302146911621,
+                "lexical_overlap_ln_preposition": 0.33899998664855957,
+                "lexical_overlap_ln_subject-object_swap": 0.4440000057220459,
+                "constituent_cn_embedded_under_if": 0.14900000393390656,
+                "constituent_cn_embedded_under_verb": 0.003000000026077032
+            },
+            "15": {
+                "validation_matched": 0.8244523406028748,
+                "validation_mismatched": 0.8341131210327148,
+                "lexical_overlap_ln_preposition": 0.24899999797344208,
+                "lexical_overlap_ln_subject-object_swap": 0.28600001335144043,
+                "constituent_cn_embedded_under_if": 0.10899999737739563,
+                "constituent_cn_embedded_under_verb": 0.0020000000949949026
+            },
+            "20": {
+                "validation_matched": 0.8194600343704224,
+                "validation_mismatched": 0.8285191059112549,
+                "lexical_overlap_ln_preposition": 0.26899999380111694,
+                "lexical_overlap_ln_subject-object_swap": 0.30300000309944153,
+                "constituent_cn_embedded_under_if": 0.15000000596046448,
+                "constituent_cn_embedded_under_verb": 0.003000000026077032
+            },
+            "25": {
+                "validation_matched": 0.8177279829978943,
+                "validation_mismatched": 0.8309601545333862,
+                "lexical_overlap_ln_preposition": 0.14900000393390656,
+                "lexical_overlap_ln_subject-object_swap": 0.14000000059604645,
+                "constituent_cn_embedded_under_if": 0.04800000041723251,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "30": {
+                "validation_matched": 0.8201732039451599,
+                "validation_mismatched": 0.8270952105522156,
+                "lexical_overlap_ln_preposition": 0.25200000405311584,
+                "lexical_overlap_ln_subject-object_swap": 0.15399999916553497,
+                "constituent_cn_embedded_under_if": 0.17800000309944153,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "35": {
+                "validation_matched": 0.8120223879814148,
+                "validation_mismatched": 0.8221114873886108,
+                "lexical_overlap_ln_preposition": 0.05299999937415123,
+                "lexical_overlap_ln_subject-object_swap": 0.009999999776482582,
+                "constituent_cn_embedded_under_if": 0.08900000154972076,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "40": {
+                "validation_matched": 0.8129394054412842,
+                "validation_mismatched": 0.8213995099067688,
+                "lexical_overlap_ln_preposition": 0.07999999821186066,
+                "lexical_overlap_ln_subject-object_swap": 0.04100000113248825,
+                "constituent_cn_embedded_under_if": 0.02199999988079071,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "45": {
+                "validation_matched": 0.8058074116706848,
+                "validation_mismatched": 0.8159072399139404,
+                "lexical_overlap_ln_preposition": 0.02500000037252903,
+                "lexical_overlap_ln_subject-object_swap": 0.004999999888241291,
+                "constituent_cn_embedded_under_if": 0.007000000216066837,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "50": {
+                "validation_matched": 0.8037697672843933,
+                "validation_mismatched": 0.8072620034217834,
+                "lexical_overlap_ln_preposition": 0.0010000000474974513,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "55": {
+                "validation_matched": 0.7914416790008545,
+                "validation_mismatched": 0.7956672310829163,
+                "lexical_overlap_ln_preposition": 0.004000000189989805,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "60": {
+                "validation_matched": 0.7852267026901245,
+                "validation_mismatched": 0.7930228114128113,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.004000000189989805,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.7684156894683838,
+                "validation_mismatched": 0.7707485556602478,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.7310239672660828,
+                "validation_mismatched": 0.7430838346481323,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            }
+        },
+        "24500": {
+            "5": {
+                "validation_matched": 0.8093733787536621,
+                "validation_mismatched": 0.8165174722671509,
+                "lexical_overlap_ln_preposition": 0.0820000022649765,
+                "lexical_overlap_ln_subject-object_swap": 0.050999999046325684,
+                "constituent_cn_embedded_under_if": 0.10300000011920929,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "10": {
+                "validation_matched": 0.828324019908905,
+                "validation_mismatched": 0.8367575407028198,
+                "lexical_overlap_ln_preposition": 0.4860000014305115,
+                "lexical_overlap_ln_subject-object_swap": 0.5830000042915344,
+                "constituent_cn_embedded_under_if": 0.17900000512599945,
+                "constituent_cn_embedded_under_verb": 0.06700000166893005
+            },
+            "15": {
+                "validation_matched": 0.832705020904541,
+                "validation_mismatched": 0.8369609713554382,
+                "lexical_overlap_ln_preposition": 0.4189999997615814,
+                "lexical_overlap_ln_subject-object_swap": 0.5239999890327454,
+                "constituent_cn_embedded_under_if": 0.18199999630451202,
+                "constituent_cn_embedded_under_verb": 0.00800000037997961
+            },
+            "20": {
+                "validation_matched": 0.8308711051940918,
+                "validation_mismatched": 0.8345199227333069,
+                "lexical_overlap_ln_preposition": 0.3930000066757202,
+                "lexical_overlap_ln_subject-object_swap": 0.34299999475479126,
+                "constituent_cn_embedded_under_if": 0.27900001406669617,
+                "constituent_cn_embedded_under_verb": 0.029999999329447746
+            },
+            "25": {
+                "validation_matched": 0.8305654525756836,
+                "validation_mismatched": 0.8367575407028198,
+                "lexical_overlap_ln_preposition": 0.3140000104904175,
+                "lexical_overlap_ln_subject-object_swap": 0.257999986410141,
+                "constituent_cn_embedded_under_if": 0.20100000500679016,
+                "constituent_cn_embedded_under_verb": 0.02199999988079071
+            },
+            "30": {
+                "validation_matched": 0.832705020904541,
+                "validation_mismatched": 0.829943060874939,
+                "lexical_overlap_ln_preposition": 0.33799999952316284,
+                "lexical_overlap_ln_subject-object_swap": 0.2669999897480011,
+                "constituent_cn_embedded_under_if": 0.2980000078678131,
+                "constituent_cn_embedded_under_verb": 0.054999999701976776
+            },
+            "35": {
+                "validation_matched": 0.8261843919754028,
+                "validation_mismatched": 0.8270952105522156,
+                "lexical_overlap_ln_preposition": 0.21799999475479126,
+                "lexical_overlap_ln_subject-object_swap": 0.15800000727176666,
+                "constituent_cn_embedded_under_if": 0.2529999911785126,
+                "constituent_cn_embedded_under_verb": 0.04600000008940697
+            },
+            "40": {
+                "validation_matched": 0.8182373642921448,
+                "validation_mismatched": 0.8225182890892029,
+                "lexical_overlap_ln_preposition": 0.23800000548362732,
+                "lexical_overlap_ln_subject-object_swap": 0.17000000178813934,
+                "constituent_cn_embedded_under_if": 0.18400000035762787,
+                "constituent_cn_embedded_under_verb": 0.017000000923871994
+            },
+            "45": {
+                "validation_matched": 0.8159959316253662,
+                "validation_mismatched": 0.8170260190963745,
+                "lexical_overlap_ln_preposition": 0.12800000607967377,
+                "lexical_overlap_ln_subject-object_swap": 0.09000000357627869,
+                "constituent_cn_embedded_under_if": 0.05299999937415123,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "50": {
+                "validation_matched": 0.811003565788269,
+                "validation_mismatched": 0.8156021237373352,
+                "lexical_overlap_ln_preposition": 0.050999999046325684,
+                "lexical_overlap_ln_subject-object_swap": 0.024000000208616257,
+                "constituent_cn_embedded_under_if": 0.024000000208616257,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "55": {
+                "validation_matched": 0.803260326385498,
+                "validation_mismatched": 0.8083807826042175,
+                "lexical_overlap_ln_preposition": 0.004000000189989805,
+                "lexical_overlap_ln_subject-object_swap": 0.0010000000474974513,
+                "constituent_cn_embedded_under_if": 0.03400000184774399,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "60": {
+                "validation_matched": 0.784207820892334,
+                "validation_mismatched": 0.7836655974388123,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.004000000189989805,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.7742231488227844,
+                "validation_mismatched": 0.7767493724822998,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.7402954697608948,
+                "validation_mismatched": 0.7428804039955139,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            }
+        },
+        "30500": {
+            "5": {
+                "validation_matched": 0.8111054301261902,
+                "validation_mismatched": 0.80970299243927,
+                "lexical_overlap_ln_preposition": 0.03099999949336052,
+                "lexical_overlap_ln_subject-object_swap": 0.007000000216066837,
+                "constituent_cn_embedded_under_if": 0.01600000075995922,
+                "constituent_cn_embedded_under_verb": 0.0010000000474974513
+            },
+            "10": {
+                "validation_matched": 0.8319918513298035,
+                "validation_mismatched": 0.8380797505378723,
+                "lexical_overlap_ln_preposition": 0.6110000014305115,
+                "lexical_overlap_ln_subject-object_swap": 0.671999990940094,
+                "constituent_cn_embedded_under_if": 0.1080000028014183,
+                "constituent_cn_embedded_under_verb": 0.12700000405311584
+            },
+            "15": {
+                "validation_matched": 0.8377993106842041,
+                "validation_mismatched": 0.8373677730560303,
+                "lexical_overlap_ln_preposition": 0.46700000762939453,
+                "lexical_overlap_ln_subject-object_swap": 0.4729999899864197,
+                "constituent_cn_embedded_under_if": 0.10499999672174454,
+                "constituent_cn_embedded_under_verb": 0.02500000037252903
+            },
+            "20": {
+                "validation_matched": 0.8284258842468262,
+                "validation_mismatched": 0.8319771885871887,
+                "lexical_overlap_ln_preposition": 0.42399999499320984,
+                "lexical_overlap_ln_subject-object_swap": 0.47600001096725464,
+                "constituent_cn_embedded_under_if": 0.03799999877810478,
+                "constituent_cn_embedded_under_verb": 0.035999998450279236
+            },
+            "25": {
+                "validation_matched": 0.8317880630493164,
+                "validation_mismatched": 0.8297396302223206,
+                "lexical_overlap_ln_preposition": 0.4620000123977661,
+                "lexical_overlap_ln_subject-object_swap": 0.4580000042915344,
+                "constituent_cn_embedded_under_if": 0.18799999356269836,
+                "constituent_cn_embedded_under_verb": 0.16699999570846558
+            },
+            "30": {
+                "validation_matched": 0.8302597999572754,
+                "validation_mismatched": 0.8293327689170837,
+                "lexical_overlap_ln_preposition": 0.6119999885559082,
+                "lexical_overlap_ln_subject-object_swap": 0.6470000147819519,
+                "constituent_cn_embedded_under_if": 0.15399999916553497,
+                "constituent_cn_embedded_under_verb": 0.10899999737739563
+            },
+            "35": {
+                "validation_matched": 0.8251655697822571,
+                "validation_mismatched": 0.8267900943756104,
+                "lexical_overlap_ln_preposition": 0.3479999899864197,
+                "lexical_overlap_ln_subject-object_swap": 0.2329999953508377,
+                "constituent_cn_embedded_under_if": 0.10300000011920929,
+                "constituent_cn_embedded_under_verb": 0.07199999690055847
+            },
+            "40": {
+                "validation_matched": -1.0,
+                "validation_mismatched": -1.0,
+                "lexical_overlap_ln_preposition": -1.0,
+                "lexical_overlap_ln_subject-object_swap": -1.0,
+                "constituent_cn_embedded_under_if": -1.0,
+                "constituent_cn_embedded_under_verb": -1.0
+            },
+            "45": {
+                "validation_matched": 0.8179317116737366,
+                "validation_mismatched": 0.8226200342178345,
+                "lexical_overlap_ln_preposition": 0.17800000309944153,
+                "lexical_overlap_ln_subject-object_swap": 0.07199999690055847,
+                "constituent_cn_embedded_under_if": 0.06199999898672104,
+                "constituent_cn_embedded_under_verb": 0.003000000026077032
+            },
+            "50": {
+                "validation_matched": 0.8115130066871643,
+                "validation_mismatched": 0.811940610408783,
+                "lexical_overlap_ln_preposition": 0.06800000369548798,
+                "lexical_overlap_ln_subject-object_swap": 0.03099999949336052,
+                "constituent_cn_embedded_under_if": 0.017000000923871994,
+                "constituent_cn_embedded_under_verb": 0.004000000189989805
+            },
+            "55": {
+                "validation_matched": 0.7989811301231384,
+                "validation_mismatched": 0.804007351398468,
+                "lexical_overlap_ln_preposition": 0.01600000075995922,
+                "lexical_overlap_ln_subject-object_swap": 0.004000000189989805,
+                "constituent_cn_embedded_under_if": 0.020999999716877937,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "60": {
+                "validation_matched": 0.7911360263824463,
+                "validation_mismatched": 0.7922090888023376,
+                "lexical_overlap_ln_preposition": 0.003000000026077032,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.02199999988079071,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.7775853276252747,
+                "validation_mismatched": 0.7790886759757996,
+                "lexical_overlap_ln_preposition": 0.0020000000949949026,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.007000000216066837,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.7549669146537781,
+                "validation_mismatched": 0.7588486671447754,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.02800000086426735,
+                "constituent_cn_embedded_under_verb": 0.0
+            }
+        },
+        "36500": {
+            "5": {
+                "validation_matched": 0.8102903962135315,
+                "validation_mismatched": 0.8108218312263489,
+                "lexical_overlap_ln_preposition": 0.004999999888241291,
+                "lexical_overlap_ln_subject-object_swap": 0.0020000000949949026,
+                "constituent_cn_embedded_under_if": 0.035999998450279236,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "10": {
+                "validation_matched": 0.8347427248954773,
+                "validation_mismatched": 0.8420463800430298,
+                "lexical_overlap_ln_preposition": 0.5249999761581421,
+                "lexical_overlap_ln_subject-object_swap": 0.6340000033378601,
+                "constituent_cn_embedded_under_if": 0.2930000126361847,
+                "constituent_cn_embedded_under_verb": 0.15700000524520874
+            },
+            "15": {
+                "validation_matched": 0.8348446488380432,
+                "validation_mismatched": 0.8399105072021484,
+                "lexical_overlap_ln_preposition": 0.4020000100135803,
+                "lexical_overlap_ln_subject-object_swap": 0.5239999890327454,
+                "constituent_cn_embedded_under_if": 0.1940000057220459,
+                "constituent_cn_embedded_under_verb": 0.07500000298023224
+            },
+            "20": {
+                "validation_matched": 0.8323993682861328,
+                "validation_mismatched": 0.8391985297203064,
+                "lexical_overlap_ln_preposition": 0.3310000002384186,
+                "lexical_overlap_ln_subject-object_swap": 0.29600000381469727,
+                "constituent_cn_embedded_under_if": 0.1979999989271164,
+                "constituent_cn_embedded_under_verb": 0.10499999672174454
+            },
+            "25": {
+                "validation_matched": 0.8326031565666199,
+                "validation_mismatched": 0.8377746343612671,
+                "lexical_overlap_ln_preposition": 0.3109999895095825,
+                "lexical_overlap_ln_subject-object_swap": 0.3569999933242798,
+                "constituent_cn_embedded_under_if": 0.30399999022483826,
+                "constituent_cn_embedded_under_verb": 0.12099999934434891
+            },
+            "30": {
+                "validation_matched": 0.8258787393569946,
+                "validation_mismatched": 0.8301464319229126,
+                "lexical_overlap_ln_preposition": 0.31700000166893005,
+                "lexical_overlap_ln_subject-object_swap": 0.28299999237060547,
+                "constituent_cn_embedded_under_if": 0.20900000631809235,
+                "constituent_cn_embedded_under_verb": 0.0729999989271164
+            },
+            "35": {
+                "validation_matched": 0.8235353827476501,
+                "validation_mismatched": 0.8254678845405579,
+                "lexical_overlap_ln_preposition": 0.11299999803304672,
+                "lexical_overlap_ln_subject-object_swap": 0.07999999821186066,
+                "constituent_cn_embedded_under_if": 0.15600000321865082,
+                "constituent_cn_embedded_under_verb": 0.0430000014603138
+            },
+            "40": {
+                "validation_matched": 0.8152827024459839,
+                "validation_mismatched": 0.8233319520950317,
+                "lexical_overlap_ln_preposition": 0.19300000369548798,
+                "lexical_overlap_ln_subject-object_swap": 0.1679999977350235,
+                "constituent_cn_embedded_under_if": 0.28299999237060547,
+                "constituent_cn_embedded_under_verb": 0.04500000178813934
+            },
+            "45": {
+                "validation_matched": 0.8152827024459839,
+                "validation_mismatched": 0.818653404712677,
+                "lexical_overlap_ln_preposition": 0.09200000017881393,
+                "lexical_overlap_ln_subject-object_swap": 0.041999999433755875,
+                "constituent_cn_embedded_under_if": 0.296999990940094,
+                "constituent_cn_embedded_under_verb": 0.0020000000949949026
+            },
+            "50": {
+                "validation_matched": 0.812328040599823,
+                "validation_mismatched": 0.8158055543899536,
+                "lexical_overlap_ln_preposition": 0.017000000923871994,
+                "lexical_overlap_ln_subject-object_swap": 0.0020000000949949026,
+                "constituent_cn_embedded_under_if": 0.22599999606609344,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "55": {
+                "validation_matched": 0.8016301393508911,
+                "validation_mismatched": 0.8087876439094543,
+                "lexical_overlap_ln_preposition": 0.0010000000474974513,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.014999999664723873,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "60": {
+                "validation_matched": 0.7954151630401611,
+                "validation_mismatched": 0.7969894409179688,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.010999999940395355,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.7757514119148254,
+                "validation_mismatched": 0.78000408411026,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.01600000075995922,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.7525216341018677,
+                "validation_mismatched": 0.7594588994979858,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.004999999888241291,
+                "constituent_cn_embedded_under_verb": 0.0
+            }
+        },
+        "42500": {
+            "5": {
+                "validation_matched": 0.8161997199058533,
+                "validation_mismatched": 0.8177379965782166,
+                "lexical_overlap_ln_preposition": 0.12399999797344208,
+                "lexical_overlap_ln_subject-object_swap": 0.1469999998807907,
+                "constituent_cn_embedded_under_if": 0.03500000014901161,
+                "constituent_cn_embedded_under_verb": 0.004000000189989805
+            },
+            "10": {
+                "validation_matched": 0.8326031565666199,
+                "validation_mismatched": 0.8428600430488586,
+                "lexical_overlap_ln_preposition": 0.6179999709129333,
+                "lexical_overlap_ln_subject-object_swap": 0.8309999704360962,
+                "constituent_cn_embedded_under_if": 0.13699999451637268,
+                "constituent_cn_embedded_under_verb": 0.24199999868869781
+            },
+            "15": {
+                "validation_matched": 0.8336219787597656,
+                "validation_mismatched": 0.8408258557319641,
+                "lexical_overlap_ln_preposition": 0.6000000238418579,
+                "lexical_overlap_ln_subject-object_swap": 0.8100000023841858,
+                "constituent_cn_embedded_under_if": 0.16899999976158142,
+                "constituent_cn_embedded_under_verb": 0.1889999955892563
+            },
+            "20": {
+                "validation_matched": 0.8295466303825378,
+                "validation_mismatched": 0.832994282245636,
+                "lexical_overlap_ln_preposition": 0.6169999837875366,
+                "lexical_overlap_ln_subject-object_swap": 0.8389999866485596,
+                "constituent_cn_embedded_under_if": 0.30799999833106995,
+                "constituent_cn_embedded_under_verb": 0.2930000126361847
+            },
+            "25": {
+                "validation_matched": 0.8315843343734741,
+                "validation_mismatched": 0.835943877696991,
+                "lexical_overlap_ln_preposition": 0.4970000088214874,
+                "lexical_overlap_ln_subject-object_swap": 0.6380000114440918,
+                "constituent_cn_embedded_under_if": 0.24400000274181366,
+                "constituent_cn_embedded_under_verb": 0.19200000166893005
+            },
+            "30": {
+                "validation_matched": 0.8279164433479309,
+                "validation_mismatched": 0.8330960273742676,
+                "lexical_overlap_ln_preposition": 0.5099999904632568,
+                "lexical_overlap_ln_subject-object_swap": 0.6320000290870667,
+                "constituent_cn_embedded_under_if": 0.2160000056028366,
+                "constituent_cn_embedded_under_verb": 0.16500000655651093
+            },
+            "35": {
+                "validation_matched": 0.826591968536377,
+                "validation_mismatched": 0.8281123042106628,
+                "lexical_overlap_ln_preposition": 0.38600000739097595,
+                "lexical_overlap_ln_subject-object_swap": 0.4950000047683716,
+                "constituent_cn_embedded_under_if": 0.017000000923871994,
+                "constituent_cn_embedded_under_verb": 0.04399999976158142
+            },
+            "40": {
+                "validation_matched": 0.8220071196556091,
+                "validation_mismatched": 0.8241456747055054,
+                "lexical_overlap_ln_preposition": 0.382999986410141,
+                "lexical_overlap_ln_subject-object_swap": 0.5960000157356262,
+                "constituent_cn_embedded_under_if": 0.03700000047683716,
+                "constituent_cn_embedded_under_verb": 0.10000000149011612
+            },
+            "45": {
+                "validation_matched": 0.8195618987083435,
+                "validation_mismatched": 0.8218063712120056,
+                "lexical_overlap_ln_preposition": 0.11800000071525574,
+                "lexical_overlap_ln_subject-object_swap": 0.08500000089406967,
+                "constituent_cn_embedded_under_if": 0.05400000140070915,
+                "constituent_cn_embedded_under_verb": 0.05700000002980232
+            },
+            "50": {
+                "validation_matched": 0.8062149882316589,
+                "validation_mismatched": 0.8087876439094543,
+                "lexical_overlap_ln_preposition": 0.06700000166893005,
+                "lexical_overlap_ln_subject-object_swap": 0.04500000178813934,
+                "constituent_cn_embedded_under_if": 0.050999999046325684,
+                "constituent_cn_embedded_under_verb": 0.0020000000949949026
+            },
+            "55": {
+                "validation_matched": 0.8085583448410034,
+                "validation_mismatched": 0.8107200860977173,
+                "lexical_overlap_ln_preposition": 0.019999999552965164,
+                "lexical_overlap_ln_subject-object_swap": 0.007000000216066837,
+                "constituent_cn_embedded_under_if": 0.006000000052154064,
+                "constituent_cn_embedded_under_verb": 0.0010000000474974513
+            },
+            "60": {
+                "validation_matched": 0.7913398146629333,
+                "validation_mismatched": 0.7926159501075745,
+                "lexical_overlap_ln_preposition": 0.006000000052154064,
+                "lexical_overlap_ln_subject-object_swap": 0.004000000189989805,
+                "constituent_cn_embedded_under_if": 0.0020000000949949026,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.7838003039360046,
+                "validation_mismatched": 0.787937343120575,
+                "lexical_overlap_ln_preposition": 0.0020000000949949026,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.004000000189989805,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.7515028119087219,
+                "validation_mismatched": 0.7568144798278809,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.00800000037997961,
+                "constituent_cn_embedded_under_verb": 0.0
+            }
+        },
+        "48500": {
+            "5": {
+                "validation_matched": 0.8151808381080627,
+                "validation_mismatched": 0.8163141012191772,
+                "lexical_overlap_ln_preposition": 0.15600000321865082,
+                "lexical_overlap_ln_subject-object_swap": 0.14100000262260437,
+                "constituent_cn_embedded_under_if": 0.1679999977350235,
+                "constituent_cn_embedded_under_verb": 0.017000000923871994
+            },
+            "10": {
+                "validation_matched": -1.0,
+                "validation_mismatched": -1.0,
+                "lexical_overlap_ln_preposition": -1.0,
+                "lexical_overlap_ln_subject-object_swap": -1.0,
+                "constituent_cn_embedded_under_if": -1.0,
+                "constituent_cn_embedded_under_verb": -1.0
+            },
+            "15": {
+                "validation_matched": 0.8309730291366577,
+                "validation_mismatched": 0.8366557955741882,
+                "lexical_overlap_ln_preposition": 0.7599999904632568,
+                "lexical_overlap_ln_subject-object_swap": 0.8600000143051147,
+                "constituent_cn_embedded_under_if": 0.26100000739097595,
+                "constituent_cn_embedded_under_verb": 0.19900000095367432
+            },
+            "20": {
+                "validation_matched": 0.8320937156677246,
+                "validation_mismatched": 0.8342148065567017,
+                "lexical_overlap_ln_preposition": 0.6150000095367432,
+                "lexical_overlap_ln_subject-object_swap": 0.7870000004768372,
+                "constituent_cn_embedded_under_if": 0.17100000381469727,
+                "constituent_cn_embedded_under_verb": 0.18299999833106995
+            },
+            "25": {
+                "validation_matched": 0.8333163261413574,
+                "validation_mismatched": 0.8334011435508728,
+                "lexical_overlap_ln_preposition": 0.7570000290870667,
+                "lexical_overlap_ln_subject-object_swap": 0.8330000042915344,
+                "constituent_cn_embedded_under_if": 0.41600000858306885,
+                "constituent_cn_embedded_under_verb": 0.3400000035762787
+            },
+            "30": {
+                "validation_matched": 0.8255730867385864,
+                "validation_mismatched": 0.8297396302223206,
+                "lexical_overlap_ln_preposition": 0.7179999947547913,
+                "lexical_overlap_ln_subject-object_swap": 0.7850000262260437,
+                "constituent_cn_embedded_under_if": 0.3319999873638153,
+                "constituent_cn_embedded_under_verb": 0.25600001215934753
+            },
+            "35": {
+                "validation_matched": 0.8288334012031555,
+                "validation_mismatched": 0.8282139897346497,
+                "lexical_overlap_ln_preposition": 0.5989999771118164,
+                "lexical_overlap_ln_subject-object_swap": 0.5929999947547913,
+                "constituent_cn_embedded_under_if": 0.3269999921321869,
+                "constituent_cn_embedded_under_verb": 0.21699999272823334
+            },
+            "40": {
+                "validation_matched": 0.8213958144187927,
+                "validation_mismatched": 0.8231285810470581,
+                "lexical_overlap_ln_preposition": 0.5049999952316284,
+                "lexical_overlap_ln_subject-object_swap": 0.6039999723434448,
+                "constituent_cn_embedded_under_if": 0.11100000143051147,
+                "constituent_cn_embedded_under_verb": 0.03400000184774399
+            },
+            "45": {
+                "validation_matched": 0.8206826448440552,
+                "validation_mismatched": 0.8235353827476501,
+                "lexical_overlap_ln_preposition": 0.38600000739097595,
+                "lexical_overlap_ln_subject-object_swap": 0.4129999876022339,
+                "constituent_cn_embedded_under_if": 0.09300000220537186,
+                "constituent_cn_embedded_under_verb": 0.03500000014901161
+            },
+            "50": {
+                "validation_matched": 0.8062149882316589,
+                "validation_mismatched": 0.805939793586731,
+                "lexical_overlap_ln_preposition": 0.10199999809265137,
+                "lexical_overlap_ln_subject-object_swap": 0.0430000014603138,
+                "constituent_cn_embedded_under_if": 0.12600000202655792,
+                "constituent_cn_embedded_under_verb": 0.0010000000474974513
+            },
+            "55": {
+                "validation_matched": 0.8102903962135315,
+                "validation_mismatched": 0.8090927600860596,
+                "lexical_overlap_ln_preposition": 0.057999998331069946,
+                "lexical_overlap_ln_subject-object_swap": 0.01600000075995922,
+                "constituent_cn_embedded_under_if": 0.02800000086426735,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "60": {
+                "validation_matched": 0.7952114343643188,
+                "validation_mismatched": 0.797701358795166,
+                "lexical_overlap_ln_preposition": 0.023000000044703484,
+                "lexical_overlap_ln_subject-object_swap": 0.007000000216066837,
+                "constituent_cn_embedded_under_if": 0.023000000044703484,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.7746306657791138,
+                "validation_mismatched": 0.7806143164634705,
+                "lexical_overlap_ln_preposition": 0.004000000189989805,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.007000000216066837,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.7422312498092651,
+                "validation_mismatched": 0.7494914531707764,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.003000000026077032,
+                "constituent_cn_embedded_under_verb": 0.0
+            }
+        },
+        "54500": {
+            "5": {
+                "validation_matched": 0.8194600343704224,
+                "validation_mismatched": 0.8189585208892822,
+                "lexical_overlap_ln_preposition": 0.03400000184774399,
+                "lexical_overlap_ln_subject-object_swap": 0.013000000268220901,
+                "constituent_cn_embedded_under_if": 0.1459999978542328,
+                "constituent_cn_embedded_under_verb": 0.017999999225139618
+            },
+            "10": {
+                "validation_matched": 0.8357616066932678,
+                "validation_mismatched": 0.8403173089027405,
+                "lexical_overlap_ln_preposition": 0.7170000076293945,
+                "lexical_overlap_ln_subject-object_swap": 0.8259999752044678,
+                "constituent_cn_embedded_under_if": 0.3490000069141388,
+                "constituent_cn_embedded_under_verb": 0.31299999356269836
+            },
+            "15": {
+                "validation_matched": 0.8337239027023315,
+                "validation_mismatched": 0.8386899828910828,
+                "lexical_overlap_ln_preposition": 0.6819999814033508,
+                "lexical_overlap_ln_subject-object_swap": 0.7739999890327454,
+                "constituent_cn_embedded_under_if": 0.43700000643730164,
+                "constituent_cn_embedded_under_verb": 0.3179999887943268
+            },
+            "20": {
+                "validation_matched": 0.8346408605575562,
+                "validation_mismatched": 0.8375712037086487,
+                "lexical_overlap_ln_preposition": 0.6470000147819519,
+                "lexical_overlap_ln_subject-object_swap": 0.7689999938011169,
+                "constituent_cn_embedded_under_if": 0.3100000023841858,
+                "constituent_cn_embedded_under_verb": 0.26899999380111694
+            },
+            "25": {
+                "validation_matched": 0.8311767578125,
+                "validation_mismatched": 0.831061840057373,
+                "lexical_overlap_ln_preposition": 0.5979999899864197,
+                "lexical_overlap_ln_subject-object_swap": 0.6669999957084656,
+                "constituent_cn_embedded_under_if": 0.37299999594688416,
+                "constituent_cn_embedded_under_verb": 0.3440000116825104
+            },
+            "30": {
+                "validation_matched": 0.8317880630493164,
+                "validation_mismatched": 0.8323840498924255,
+                "lexical_overlap_ln_preposition": 0.3529999852180481,
+                "lexical_overlap_ln_subject-object_swap": 0.2849999964237213,
+                "constituent_cn_embedded_under_if": 0.3720000088214874,
+                "constituent_cn_embedded_under_verb": 0.39800000190734863
+            },
+            "35": {
+                "validation_matched": 0.8273051381111145,
+                "validation_mismatched": 0.8307567238807678,
+                "lexical_overlap_ln_preposition": 0.3400000035762787,
+                "lexical_overlap_ln_subject-object_swap": 0.2980000078678131,
+                "constituent_cn_embedded_under_if": 0.2770000100135803,
+                "constituent_cn_embedded_under_verb": 0.14000000059604645
+            },
+            "40": {
+                "validation_matched": 0.8242486119270325,
+                "validation_mismatched": 0.8208909630775452,
+                "lexical_overlap_ln_preposition": 0.35199999809265137,
+                "lexical_overlap_ln_subject-object_swap": 0.31700000166893005,
+                "constituent_cn_embedded_under_if": 0.3479999899864197,
+                "constituent_cn_embedded_under_verb": 0.11400000005960464
+            },
+            "45": {
+                "validation_matched": 0.8237391710281372,
+                "validation_mismatched": 0.8220097422599792,
+                "lexical_overlap_ln_preposition": 0.19499999284744263,
+                "lexical_overlap_ln_subject-object_swap": 0.14000000059604645,
+                "constituent_cn_embedded_under_if": 0.33899998664855957,
+                "constituent_cn_embedded_under_verb": 0.15199999511241913
+            },
+            "50": {
+                "validation_matched": 0.8132450580596924,
+                "validation_mismatched": 0.8121440410614014,
+                "lexical_overlap_ln_preposition": 0.164000004529953,
+                "lexical_overlap_ln_subject-object_swap": 0.0860000029206276,
+                "constituent_cn_embedded_under_if": 0.039000000804662704,
+                "constituent_cn_embedded_under_verb": 0.0010000000474974513
+            },
+            "55": {
+                "validation_matched": 0.8093733787536621,
+                "validation_mismatched": 0.8060414791107178,
+                "lexical_overlap_ln_preposition": 0.03400000184774399,
+                "lexical_overlap_ln_subject-object_swap": 0.013000000268220901,
+                "constituent_cn_embedded_under_if": 0.05900000035762787,
+                "constituent_cn_embedded_under_verb": 0.07500000298023224
+            },
+            "60": {
+                "validation_matched": 0.7913398146629333,
+                "validation_mismatched": 0.7949552536010742,
+                "lexical_overlap_ln_preposition": 0.004999999888241291,
+                "lexical_overlap_ln_subject-object_swap": 0.0020000000949949026,
+                "constituent_cn_embedded_under_if": 0.013000000268220901,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.779826819896698,
+                "validation_mismatched": 0.7875305414199829,
+                "lexical_overlap_ln_preposition": 0.004999999888241291,
+                "lexical_overlap_ln_subject-object_swap": 0.0010000000474974513,
+                "constituent_cn_embedded_under_if": 0.039000000804662704,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.7487519383430481,
+                "validation_mismatched": 0.7545769214630127,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.07000000029802322,
+                "constituent_cn_embedded_under_verb": 0.0
+            }
+        }
+    },
+    "44": {
+        "500": {
+            "5": {
+                "validation_matched": 0.6910851001739502,
+                "validation_mismatched": 0.7071806192398071,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.004999999888241291,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "10": {
+                "validation_matched": 0.7194090485572815,
+                "validation_mismatched": 0.7358624935150146,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.028999999165534973,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "15": {
+                "validation_matched": 0.7160468697547913,
+                "validation_mismatched": 0.7369812726974487,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.02199999988079071,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "20": {
+                "validation_matched": 0.7151299118995667,
+                "validation_mismatched": 0.735353946685791,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.035999998450279236,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "25": {
+                "validation_matched": 0.7115639448165894,
+                "validation_mismatched": 0.732709527015686,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.004999999888241291,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "30": {
+                "validation_matched": 0.7121752500534058,
+                "validation_mismatched": 0.7301667928695679,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.004999999888241291,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "35": {
+                "validation_matched": 0.7040244340896606,
+                "validation_mismatched": 0.7268103957176208,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0020000000949949026,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "40": {
+                "validation_matched": 0.7080998420715332,
+                "validation_mismatched": 0.7232506275177002,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0020000000949949026,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "45": {
+                "validation_matched": 0.6974019408226013,
+                "validation_mismatched": 0.7153173089027405,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.003000000026077032,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "50": {
+                "validation_matched": 0.692307710647583,
+                "validation_mismatched": 0.7137917280197144,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0010000000474974513,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "55": {
+                "validation_matched": 0.6903718709945679,
+                "validation_mismatched": 0.7081977128982544,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0020000000949949026,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "60": {
+                "validation_matched": 0.6779419183731079,
+                "validation_mismatched": 0.7043327689170837,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.6688741445541382,
+                "validation_mismatched": 0.6867371797561646,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.6560366749763489,
+                "validation_mismatched": 0.6748372912406921,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            }
+        },
+        "6500": {
+            "5": {
+                "validation_matched": 0.7877737879753113,
+                "validation_mismatched": 0.7949552536010742,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.03099999949336052,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "10": {
+                "validation_matched": 0.8148751854896545,
+                "validation_mismatched": 0.8177379965782166,
+                "lexical_overlap_ln_preposition": 0.008999999612569809,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.017999999225139618,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "15": {
+                "validation_matched": 0.8160977959632874,
+                "validation_mismatched": 0.8178396821022034,
+                "lexical_overlap_ln_preposition": 0.009999999776482582,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.017999999225139618,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "20": {
+                "validation_matched": 0.8129394054412842,
+                "validation_mismatched": 0.8147884607315063,
+                "lexical_overlap_ln_preposition": 0.0010000000474974513,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.01600000075995922,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "25": {
+                "validation_matched": 0.8093733787536621,
+                "validation_mismatched": 0.8109235167503357,
+                "lexical_overlap_ln_preposition": 0.004000000189989805,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.019999999552965164,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "30": {
+                "validation_matched": 0.8081507682800293,
+                "validation_mismatched": 0.8104149699211121,
+                "lexical_overlap_ln_preposition": 0.003000000026077032,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.00800000037997961,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "35": {
+                "validation_matched": 0.8066225051879883,
+                "validation_mismatched": 0.8068551421165466,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.01899999938905239,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "40": {
+                "validation_matched": 0.8029546737670898,
+                "validation_mismatched": 0.803295373916626,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.010999999940395355,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "45": {
+                "validation_matched": 0.7917473316192627,
+                "validation_mismatched": 0.7978031039237976,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.007000000216066837,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "50": {
+                "validation_matched": 0.7839021682739258,
+                "validation_mismatched": 0.7952603697776794,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.019999999552965164,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "55": {
+                "validation_matched": 0.7786041498184204,
+                "validation_mismatched": 0.7831570506095886,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.04600000008940697,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "60": {
+                "validation_matched": 0.7672949433326721,
+                "validation_mismatched": 0.7735964059829712,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.00800000037997961,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.7385634183883667,
+                "validation_mismatched": 0.7495931386947632,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0010000000474974513,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.715537428855896,
+                "validation_mismatched": 0.7246745228767395,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0010000000474974513,
+                "constituent_cn_embedded_under_verb": 0.0
+            }
+        },
+        "12500": {
+            "5": {
+                "validation_matched": 0.8076413869857788,
+                "validation_mismatched": 0.8148901462554932,
+                "lexical_overlap_ln_preposition": 0.020999999716877937,
+                "lexical_overlap_ln_subject-object_swap": 0.0020000000949949026,
+                "constituent_cn_embedded_under_if": 0.004000000189989805,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "10": {
+                "validation_matched": 0.8290371894836426,
+                "validation_mismatched": 0.8353335857391357,
+                "lexical_overlap_ln_preposition": 0.21199999749660492,
+                "lexical_overlap_ln_subject-object_swap": 0.22699999809265137,
+                "constituent_cn_embedded_under_if": 0.03999999910593033,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "15": {
+                "validation_matched": 0.8260825276374817,
+                "validation_mismatched": 0.8342148065567017,
+                "lexical_overlap_ln_preposition": 0.14300000667572021,
+                "lexical_overlap_ln_subject-object_swap": 0.10100000351667404,
+                "constituent_cn_embedded_under_if": 0.04899999871850014,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "20": {
+                "validation_matched": 0.8189505934715271,
+                "validation_mismatched": 0.8308584094047546,
+                "lexical_overlap_ln_preposition": 0.10999999940395355,
+                "lexical_overlap_ln_subject-object_swap": 0.04899999871850014,
+                "constituent_cn_embedded_under_if": 0.05000000074505806,
+                "constituent_cn_embedded_under_verb": 0.0010000000474974513
+            },
+            "25": {
+                "validation_matched": 0.8248599171638489,
+                "validation_mismatched": 0.8320789337158203,
+                "lexical_overlap_ln_preposition": 0.18199999630451202,
+                "lexical_overlap_ln_subject-object_swap": 0.13899999856948853,
+                "constituent_cn_embedded_under_if": 0.03700000047683716,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "30": {
+                "validation_matched": 0.8198675513267517,
+                "validation_mismatched": 0.8286208510398865,
+                "lexical_overlap_ln_preposition": 0.25699999928474426,
+                "lexical_overlap_ln_subject-object_swap": 0.17100000381469727,
+                "constituent_cn_embedded_under_if": 0.07100000232458115,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "35": {
+                "validation_matched": 0.8217014670372009,
+                "validation_mismatched": 0.8241456747055054,
+                "lexical_overlap_ln_preposition": 0.22499999403953552,
+                "lexical_overlap_ln_subject-object_swap": 0.09200000017881393,
+                "constituent_cn_embedded_under_if": 0.0860000029206276,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "40": {
+                "validation_matched": 0.8144676685333252,
+                "validation_mismatched": 0.823942244052887,
+                "lexical_overlap_ln_preposition": 0.08500000089406967,
+                "lexical_overlap_ln_subject-object_swap": 0.008999999612569809,
+                "constituent_cn_embedded_under_if": 0.03700000047683716,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "45": {
+                "validation_matched": 0.8098828196525574,
+                "validation_mismatched": 0.8162123560905457,
+                "lexical_overlap_ln_preposition": 0.017999999225139618,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.01600000075995922,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "50": {
+                "validation_matched": 0.8014264106750488,
+                "validation_mismatched": 0.8100081086158752,
+                "lexical_overlap_ln_preposition": 0.007000000216066837,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.03400000184774399,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "55": {
+                "validation_matched": 0.7944982051849365,
+                "validation_mismatched": 0.8015663027763367,
+                "lexical_overlap_ln_preposition": 0.0010000000474974513,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.01600000075995922,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "60": {
+                "validation_matched": -1.0,
+                "validation_mismatched": -1.0,
+                "lexical_overlap_ln_preposition": -1.0,
+                "lexical_overlap_ln_subject-object_swap": -1.0,
+                "constituent_cn_embedded_under_if": -1.0,
+                "constituent_cn_embedded_under_verb": -1.0
+            },
+            "65": {
+                "validation_matched": 0.7662761211395264,
+                "validation_mismatched": 0.7723759412765503,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.004000000189989805,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.7308201789855957,
+                "validation_mismatched": 0.7404393553733826,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.006000000052154064,
+                "constituent_cn_embedded_under_verb": 0.0
+            }
+        },
+        "18500": {
+            "5": {
+                "validation_matched": 0.8026490211486816,
+                "validation_mismatched": 0.80970299243927,
+                "lexical_overlap_ln_preposition": 0.01899999938905239,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.010999999940395355,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "10": {
+                "validation_matched": 0.8289353251457214,
+                "validation_mismatched": 0.8379780054092407,
+                "lexical_overlap_ln_preposition": 0.3230000138282776,
+                "lexical_overlap_ln_subject-object_swap": 0.4259999990463257,
+                "constituent_cn_embedded_under_if": 0.1340000033378601,
+                "constituent_cn_embedded_under_verb": 0.0010000000474974513
+            },
+            "15": {
+                "validation_matched": 0.8254712224006653,
+                "validation_mismatched": 0.8334011435508728,
+                "lexical_overlap_ln_preposition": 0.2709999978542328,
+                "lexical_overlap_ln_subject-object_swap": 0.3070000112056732,
+                "constituent_cn_embedded_under_if": 0.18199999630451202,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "20": {
+                "validation_matched": 0.8179317116737366,
+                "validation_mismatched": 0.8283156752586365,
+                "lexical_overlap_ln_preposition": 0.19699999690055847,
+                "lexical_overlap_ln_subject-object_swap": 0.22300000488758087,
+                "constituent_cn_embedded_under_if": 0.13699999451637268,
+                "constituent_cn_embedded_under_verb": 0.0020000000949949026
+            },
+            "25": {
+                "validation_matched": 0.8246561288833618,
+                "validation_mismatched": 0.8355370163917542,
+                "lexical_overlap_ln_preposition": 0.296999990940094,
+                "lexical_overlap_ln_subject-object_swap": 0.39500001072883606,
+                "constituent_cn_embedded_under_if": 0.1469999998807907,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "30": {
+                "validation_matched": 0.8240448236465454,
+                "validation_mismatched": 0.826993465423584,
+                "lexical_overlap_ln_preposition": 0.2750000059604645,
+                "lexical_overlap_ln_subject-object_swap": 0.28999999165534973,
+                "constituent_cn_embedded_under_if": 0.16599999368190765,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "35": {
+                "validation_matched": 0.814162015914917,
+                "validation_mismatched": 0.8230268359184265,
+                "lexical_overlap_ln_preposition": 0.210999995470047,
+                "lexical_overlap_ln_subject-object_swap": 0.20600000023841858,
+                "constituent_cn_embedded_under_if": 0.09099999815225601,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "40": {
+                "validation_matched": 0.8149770498275757,
+                "validation_mismatched": 0.8215011954307556,
+                "lexical_overlap_ln_preposition": 0.10999999940395355,
+                "lexical_overlap_ln_subject-object_swap": 0.09000000357627869,
+                "constituent_cn_embedded_under_if": 0.024000000208616257,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "45": {
+                "validation_matched": 0.8049923777580261,
+                "validation_mismatched": 0.8155003786087036,
+                "lexical_overlap_ln_preposition": 0.12600000202655792,
+                "lexical_overlap_ln_subject-object_swap": 0.05900000035762787,
+                "constituent_cn_embedded_under_if": 0.12999999523162842,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "50": {
+                "validation_matched": 0.8029546737670898,
+                "validation_mismatched": 0.8118388652801514,
+                "lexical_overlap_ln_preposition": 0.020999999716877937,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.028999999165534973,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "55": {
+                "validation_matched": 0.7923586368560791,
+                "validation_mismatched": 0.8030919432640076,
+                "lexical_overlap_ln_preposition": 0.013000000268220901,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.012000000104308128,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "60": {
+                "validation_matched": -1.0,
+                "validation_mismatched": -1.0,
+                "lexical_overlap_ln_preposition": -1.0,
+                "lexical_overlap_ln_subject-object_swap": -1.0,
+                "constituent_cn_embedded_under_if": -1.0,
+                "constituent_cn_embedded_under_verb": -1.0
+            },
+            "65": {
+                "validation_matched": 0.7683138251304626,
+                "validation_mismatched": 0.7779698967933655,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": -1.0,
+                "validation_mismatched": -1.0,
+                "lexical_overlap_ln_preposition": -1.0,
+                "lexical_overlap_ln_subject-object_swap": -1.0,
+                "constituent_cn_embedded_under_if": -1.0,
+                "constituent_cn_embedded_under_verb": -1.0
+            }
+        },
+        "24500": {
+            "5": {
+                "validation_matched": 0.8080489039421082,
+                "validation_mismatched": 0.8164157867431641,
+                "lexical_overlap_ln_preposition": 0.041999999433755875,
+                "lexical_overlap_ln_subject-object_swap": 0.010999999940395355,
+                "constituent_cn_embedded_under_if": 0.09600000083446503,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "10": {
+                "validation_matched": 0.8347427248954773,
+                "validation_mismatched": 0.8412327170372009,
+                "lexical_overlap_ln_preposition": 0.5239999890327454,
+                "lexical_overlap_ln_subject-object_swap": 0.628000020980835,
+                "constituent_cn_embedded_under_if": 0.15600000321865082,
+                "constituent_cn_embedded_under_verb": 0.03799999877810478
+            },
+            "15": {
+                "validation_matched": 0.8308711051940918,
+                "validation_mismatched": 0.8394019603729248,
+                "lexical_overlap_ln_preposition": 0.49399998784065247,
+                "lexical_overlap_ln_subject-object_swap": 0.5379999876022339,
+                "constituent_cn_embedded_under_if": 0.1940000057220459,
+                "constituent_cn_embedded_under_verb": 0.07900000363588333
+            },
+            "20": {
+                "validation_matched": 0.8307692408561707,
+                "validation_mismatched": 0.8381814360618591,
+                "lexical_overlap_ln_preposition": 0.3779999911785126,
+                "lexical_overlap_ln_subject-object_swap": 0.41600000858306885,
+                "constituent_cn_embedded_under_if": 0.1860000044107437,
+                "constituent_cn_embedded_under_verb": 0.0430000014603138
+            },
+            "25": {
+                "validation_matched": 0.8300560116767883,
+                "validation_mismatched": 0.8348250389099121,
+                "lexical_overlap_ln_preposition": 0.44600000977516174,
+                "lexical_overlap_ln_subject-object_swap": 0.46799999475479126,
+                "constituent_cn_embedded_under_if": 0.23899999260902405,
+                "constituent_cn_embedded_under_verb": 0.024000000208616257
+            },
+            "30": {
+                "validation_matched": 0.828324019908905,
+                "validation_mismatched": 0.8309601545333862,
+                "lexical_overlap_ln_preposition": 0.40799999237060547,
+                "lexical_overlap_ln_subject-object_swap": 0.3630000054836273,
+                "constituent_cn_embedded_under_if": 0.2750000059604645,
+                "constituent_cn_embedded_under_verb": 0.032999999821186066
+            },
+            "35": {
+                "validation_matched": 0.8277126550674438,
+                "validation_mismatched": 0.8262815475463867,
+                "lexical_overlap_ln_preposition": 0.25600001215934753,
+                "lexical_overlap_ln_subject-object_swap": 0.18799999356269836,
+                "constituent_cn_embedded_under_if": 0.13500000536441803,
+                "constituent_cn_embedded_under_verb": 0.0020000000949949026
+            },
+            "40": {
+                "validation_matched": 0.8263881802558899,
+                "validation_mismatched": 0.8254678845405579,
+                "lexical_overlap_ln_preposition": 0.20800000429153442,
+                "lexical_overlap_ln_subject-object_swap": 0.1940000057220459,
+                "constituent_cn_embedded_under_if": 0.14399999380111694,
+                "constituent_cn_embedded_under_verb": 0.0010000000474974513
+            },
+            "45": {
+                "validation_matched": 0.8176260590553284,
+                "validation_mismatched": 0.8171277642250061,
+                "lexical_overlap_ln_preposition": 0.06199999898672104,
+                "lexical_overlap_ln_subject-object_swap": 0.027000000700354576,
+                "constituent_cn_embedded_under_if": 0.020999999716877937,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "50": {
+                "validation_matched": 0.809475302696228,
+                "validation_mismatched": 0.8128559589385986,
+                "lexical_overlap_ln_preposition": 0.08500000089406967,
+                "lexical_overlap_ln_subject-object_swap": 0.04699999839067459,
+                "constituent_cn_embedded_under_if": 0.06800000369548798,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "55": {
+                "validation_matched": 0.8033621907234192,
+                "validation_mismatched": 0.8053295612335205,
+                "lexical_overlap_ln_preposition": 0.04399999976158142,
+                "lexical_overlap_ln_subject-object_swap": 0.023000000044703484,
+                "constituent_cn_embedded_under_if": 0.04699999839067459,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "60": {
+                "validation_matched": 0.7956189513206482,
+                "validation_mismatched": 0.8011595010757446,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.01899999938905239,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.767193078994751,
+                "validation_mismatched": 0.777054488658905,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.004000000189989805,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.7435557842254639,
+                "validation_mismatched": 0.7483726739883423,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.012000000104308128,
+                "constituent_cn_embedded_under_verb": 0.0
+            }
+        },
+        "30500": {
+            "5": {
+                "validation_matched": 0.8148751854896545,
+                "validation_mismatched": 0.8177379965782166,
+                "lexical_overlap_ln_preposition": 0.008999999612569809,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.03999999910593033,
+                "constituent_cn_embedded_under_verb": 0.0020000000949949026
+            },
+            "10": {
+                "validation_matched": 0.8335201144218445,
+                "validation_mismatched": 0.8373677730560303,
+                "lexical_overlap_ln_preposition": 0.6209999918937683,
+                "lexical_overlap_ln_subject-object_swap": 0.703000009059906,
+                "constituent_cn_embedded_under_if": 0.04899999871850014,
+                "constituent_cn_embedded_under_verb": 0.10999999940395355
+            },
+            "15": {
+                "validation_matched": 0.8328069448471069,
+                "validation_mismatched": 0.837062656879425,
+                "lexical_overlap_ln_preposition": 0.5799999833106995,
+                "lexical_overlap_ln_subject-object_swap": 0.6489999890327454,
+                "constituent_cn_embedded_under_if": 0.08399999886751175,
+                "constituent_cn_embedded_under_verb": 0.10000000149011612
+            },
+            "20": {
+                "validation_matched": 0.8330106735229492,
+                "validation_mismatched": 0.8322823643684387,
+                "lexical_overlap_ln_preposition": 0.4659999907016754,
+                "lexical_overlap_ln_subject-object_swap": 0.49399998784065247,
+                "constituent_cn_embedded_under_if": 0.026000000536441803,
+                "constituent_cn_embedded_under_verb": 0.050999999046325684
+            },
+            "25": {
+                "validation_matched": 0.8323993682861328,
+                "validation_mismatched": 0.835638701915741,
+                "lexical_overlap_ln_preposition": 0.5580000281333923,
+                "lexical_overlap_ln_subject-object_swap": 0.5830000042915344,
+                "constituent_cn_embedded_under_if": 0.09099999815225601,
+                "constituent_cn_embedded_under_verb": 0.041999999433755875
+            },
+            "30": {
+                "validation_matched": 0.826591968536377,
+                "validation_mismatched": 0.8282139897346497,
+                "lexical_overlap_ln_preposition": 0.4950000047683716,
+                "lexical_overlap_ln_subject-object_swap": 0.48500001430511475,
+                "constituent_cn_embedded_under_if": 0.12700000405311584,
+                "constituent_cn_embedded_under_verb": 0.0560000017285347
+            },
+            "35": {
+                "validation_matched": 0.8260825276374817,
+                "validation_mismatched": 0.8264849185943604,
+                "lexical_overlap_ln_preposition": 0.28700000047683716,
+                "lexical_overlap_ln_subject-object_swap": 0.25099998712539673,
+                "constituent_cn_embedded_under_if": 0.07199999690055847,
+                "constituent_cn_embedded_under_verb": 0.020999999716877937
+            },
+            "40": {
+                "validation_matched": 0.8217014670372009,
+                "validation_mismatched": 0.8249593377113342,
+                "lexical_overlap_ln_preposition": 0.4189999997615814,
+                "lexical_overlap_ln_subject-object_swap": 0.3440000116825104,
+                "constituent_cn_embedded_under_if": 0.10199999809265137,
+                "constituent_cn_embedded_under_verb": 0.024000000208616257
+            },
+            "45": {
+                "validation_matched": 0.817014753818512,
+                "validation_mismatched": 0.8162123560905457,
+                "lexical_overlap_ln_preposition": 0.10599999874830246,
+                "lexical_overlap_ln_subject-object_swap": 0.057999998331069946,
+                "constituent_cn_embedded_under_if": 0.014999999664723873,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "50": {
+                "validation_matched": 0.8150789737701416,
+                "validation_mismatched": 0.8164157867431641,
+                "lexical_overlap_ln_preposition": 0.14000000059604645,
+                "lexical_overlap_ln_subject-object_swap": 0.0820000022649765,
+                "constituent_cn_embedded_under_if": 0.020999999716877937,
+                "constituent_cn_embedded_under_verb": 0.012000000104308128
+            },
+            "55": {
+                "validation_matched": 0.809271514415741,
+                "validation_mismatched": 0.8124491572380066,
+                "lexical_overlap_ln_preposition": 0.02199999988079071,
+                "lexical_overlap_ln_subject-object_swap": 0.012000000104308128,
+                "constituent_cn_embedded_under_if": 0.05999999865889549,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "60": {
+                "validation_matched": 0.792154848575592,
+                "validation_mismatched": 0.7953620553016663,
+                "lexical_overlap_ln_preposition": 0.0010000000474974513,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.009999999776482582,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.7762608528137207,
+                "validation_mismatched": 0.7822416424751282,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.7432501316070557,
+                "validation_mismatched": 0.7543734908103943,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            }
+        },
+        "36500": {
+            "5": {
+                "validation_matched": 0.8105960488319397,
+                "validation_mismatched": 0.8176363110542297,
+                "lexical_overlap_ln_preposition": 0.028999999165534973,
+                "lexical_overlap_ln_subject-object_swap": 0.017999999225139618,
+                "constituent_cn_embedded_under_if": 0.18299999833106995,
+                "constituent_cn_embedded_under_verb": 0.0020000000949949026
+            },
+            "10": {
+                "validation_matched": 0.8382068276405334,
+                "validation_mismatched": 0.8454027771949768,
+                "lexical_overlap_ln_preposition": 0.4950000047683716,
+                "lexical_overlap_ln_subject-object_swap": 0.5870000123977661,
+                "constituent_cn_embedded_under_if": 0.210999995470047,
+                "constituent_cn_embedded_under_verb": 0.1420000046491623
+            },
+            "15": {
+                "validation_matched": 0.8354559540748596,
+                "validation_mismatched": 0.8399105072021484,
+                "lexical_overlap_ln_preposition": 0.41600000858306885,
+                "lexical_overlap_ln_subject-object_swap": 0.5080000162124634,
+                "constituent_cn_embedded_under_if": 0.16099999845027924,
+                "constituent_cn_embedded_under_verb": 0.04399999976158142
+            },
+            "20": {
+                "validation_matched": 0.8334182500839233,
+                "validation_mismatched": 0.8409276008605957,
+                "lexical_overlap_ln_preposition": 0.2770000100135803,
+                "lexical_overlap_ln_subject-object_swap": 0.3409999907016754,
+                "constituent_cn_embedded_under_if": 0.25999999046325684,
+                "constituent_cn_embedded_under_verb": 0.12399999797344208
+            },
+            "25": {
+                "validation_matched": 0.8303616642951965,
+                "validation_mismatched": 0.8393002152442932,
+                "lexical_overlap_ln_preposition": 0.2879999876022339,
+                "lexical_overlap_ln_subject-object_swap": 0.24799999594688416,
+                "constituent_cn_embedded_under_if": 0.3499999940395355,
+                "constituent_cn_embedded_under_verb": 0.10700000077486038
+            },
+            "30": {
+                "validation_matched": 0.8302597999572754,
+                "validation_mismatched": 0.8350284695625305,
+                "lexical_overlap_ln_preposition": 0.22499999403953552,
+                "lexical_overlap_ln_subject-object_swap": 0.25699999928474426,
+                "constituent_cn_embedded_under_if": 0.2709999978542328,
+                "constituent_cn_embedded_under_verb": 0.11299999803304672
+            },
+            "35": {
+                "validation_matched": 0.8280183672904968,
+                "validation_mismatched": 0.8283156752586365,
+                "lexical_overlap_ln_preposition": 0.22599999606609344,
+                "lexical_overlap_ln_subject-object_swap": 0.21400000154972076,
+                "constituent_cn_embedded_under_if": 0.23100000619888306,
+                "constituent_cn_embedded_under_verb": 0.11400000005960464
+            },
+            "40": {
+                "validation_matched": 0.8211920261383057,
+                "validation_mismatched": 0.8252644538879395,
+                "lexical_overlap_ln_preposition": 0.1469999998807907,
+                "lexical_overlap_ln_subject-object_swap": 0.12800000607967377,
+                "constituent_cn_embedded_under_if": 0.13199999928474426,
+                "constituent_cn_embedded_under_verb": 0.014000000432133675
+            },
+            "45": {
+                "validation_matched": 0.8195618987083435,
+                "validation_mismatched": 0.820992648601532,
+                "lexical_overlap_ln_preposition": 0.13300000131130219,
+                "lexical_overlap_ln_subject-object_swap": 0.0949999988079071,
+                "constituent_cn_embedded_under_if": 0.14900000393390656,
+                "constituent_cn_embedded_under_verb": 0.0010000000474974513
+            },
+            "50": {
+                "validation_matched": 0.8127356171607971,
+                "validation_mismatched": 0.8108218312263489,
+                "lexical_overlap_ln_preposition": 0.026000000536441803,
+                "lexical_overlap_ln_subject-object_swap": 0.017999999225139618,
+                "constituent_cn_embedded_under_if": 0.054999999701976776,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "55": {
+                "validation_matched": 0.8039734959602356,
+                "validation_mismatched": 0.8053295612335205,
+                "lexical_overlap_ln_preposition": 0.014999999664723873,
+                "lexical_overlap_ln_subject-object_swap": 0.008999999612569809,
+                "constituent_cn_embedded_under_if": 0.041999999433755875,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "60": {
+                "validation_matched": 0.7912378907203674,
+                "validation_mismatched": 0.7963791489601135,
+                "lexical_overlap_ln_preposition": 0.0020000000949949026,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.05299999937415123,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.7758532762527466,
+                "validation_mismatched": 0.7781733274459839,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.06499999761581421,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.7524197697639465,
+                "validation_mismatched": 0.7587469220161438,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.0,
+                "constituent_cn_embedded_under_verb": 0.0
+            }
+        },
+        "42500": {
+            "5": {
+                "validation_matched": 0.8150789737701416,
+                "validation_mismatched": 0.81529700756073,
+                "lexical_overlap_ln_preposition": 0.03500000014901161,
+                "lexical_overlap_ln_subject-object_swap": 0.009999999776482582,
+                "constituent_cn_embedded_under_if": 0.17900000512599945,
+                "constituent_cn_embedded_under_verb": 0.09200000017881393
+            },
+            "10": {
+                "validation_matched": 0.8349465131759644,
+                "validation_mismatched": 0.8428600430488586,
+                "lexical_overlap_ln_preposition": 0.6269999742507935,
+                "lexical_overlap_ln_subject-object_swap": 0.8640000224113464,
+                "constituent_cn_embedded_under_if": 0.15800000727176666,
+                "constituent_cn_embedded_under_verb": 0.2150000035762787
+            },
+            "15": {
+                "validation_matched": 0.8320937156677246,
+                "validation_mismatched": 0.8381814360618591,
+                "lexical_overlap_ln_preposition": 0.5450000166893005,
+                "lexical_overlap_ln_subject-object_swap": 0.7689999938011169,
+                "constituent_cn_embedded_under_if": 0.23600000143051147,
+                "constituent_cn_embedded_under_verb": 0.30000001192092896
+            },
+            "20": {
+                "validation_matched": 0.8317880630493164,
+                "validation_mismatched": 0.8375712037086487,
+                "lexical_overlap_ln_preposition": 0.5989999771118164,
+                "lexical_overlap_ln_subject-object_swap": 0.847000002861023,
+                "constituent_cn_embedded_under_if": 0.16200000047683716,
+                "constituent_cn_embedded_under_verb": 0.17599999904632568
+            },
+            "25": {
+                "validation_matched": 0.8251655697822571,
+                "validation_mismatched": 0.8335028290748596,
+                "lexical_overlap_ln_preposition": 0.6159999966621399,
+                "lexical_overlap_ln_subject-object_swap": 0.8069999814033508,
+                "constituent_cn_embedded_under_if": 0.2150000035762787,
+                "constituent_cn_embedded_under_verb": 0.20900000631809235
+            },
+            "30": {
+                "validation_matched": 0.8252674341201782,
+                "validation_mismatched": 0.8321806192398071,
+                "lexical_overlap_ln_preposition": 0.4620000123977661,
+                "lexical_overlap_ln_subject-object_swap": 0.6430000066757202,
+                "constituent_cn_embedded_under_if": 0.09399999678134918,
+                "constituent_cn_embedded_under_verb": 0.12999999523162842
+            },
+            "35": {
+                "validation_matched": 0.8292409777641296,
+                "validation_mismatched": 0.8313669562339783,
+                "lexical_overlap_ln_preposition": 0.46799999475479126,
+                "lexical_overlap_ln_subject-object_swap": 0.5699999928474426,
+                "constituent_cn_embedded_under_if": 0.05700000002980232,
+                "constituent_cn_embedded_under_verb": 0.09300000220537186
+            },
+            "40": {
+                "validation_matched": 0.823433518409729,
+                "validation_mismatched": 0.8248575925827026,
+                "lexical_overlap_ln_preposition": 0.32499998807907104,
+                "lexical_overlap_ln_subject-object_swap": 0.4390000104904175,
+                "constituent_cn_embedded_under_if": 0.11599999666213989,
+                "constituent_cn_embedded_under_verb": 0.06700000166893005
+            },
+            "45": {
+                "validation_matched": 0.8191543817520142,
+                "validation_mismatched": 0.819060206413269,
+                "lexical_overlap_ln_preposition": 0.2980000078678131,
+                "lexical_overlap_ln_subject-object_swap": 0.3790000081062317,
+                "constituent_cn_embedded_under_if": 0.09300000220537186,
+                "constituent_cn_embedded_under_verb": 0.04600000008940697
+            },
+            "50": {
+                "validation_matched": 0.8129394054412842,
+                "validation_mismatched": 0.8155003786087036,
+                "lexical_overlap_ln_preposition": 0.14900000393390656,
+                "lexical_overlap_ln_subject-object_swap": 0.14499999582767487,
+                "constituent_cn_embedded_under_if": 0.061000000685453415,
+                "constituent_cn_embedded_under_verb": 0.006000000052154064
+            },
+            "55": {
+                "validation_matched": 0.8042791485786438,
+                "validation_mismatched": 0.8069568872451782,
+                "lexical_overlap_ln_preposition": 0.05000000074505806,
+                "lexical_overlap_ln_subject-object_swap": 0.0430000014603138,
+                "constituent_cn_embedded_under_if": 0.013000000268220901,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "60": {
+                "validation_matched": 0.7952114343643188,
+                "validation_mismatched": 0.797294557094574,
+                "lexical_overlap_ln_preposition": 0.01899999938905239,
+                "lexical_overlap_ln_subject-object_swap": 0.009999999776482582,
+                "constituent_cn_embedded_under_if": 0.0010000000474974513,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.7797248959541321,
+                "validation_mismatched": 0.7793937921524048,
+                "lexical_overlap_ln_preposition": 0.003000000026077032,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.03200000151991844,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.7486500144004822,
+                "validation_mismatched": 0.7554922699928284,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.003000000026077032,
+                "constituent_cn_embedded_under_verb": 0.0
+            }
+        },
+        "48500": {
+            "5": {
+                "validation_matched": 0.8171166777610779,
+                "validation_mismatched": 0.8169243335723877,
+                "lexical_overlap_ln_preposition": 0.18700000643730164,
+                "lexical_overlap_ln_subject-object_swap": 0.15700000524520874,
+                "constituent_cn_embedded_under_if": 0.2199999988079071,
+                "constituent_cn_embedded_under_verb": 0.03700000047683716
+            },
+            "10": {
+                "validation_matched": 0.8323993682861328,
+                "validation_mismatched": 0.8388934135437012,
+                "lexical_overlap_ln_preposition": 0.7730000019073486,
+                "lexical_overlap_ln_subject-object_swap": 0.902999997138977,
+                "constituent_cn_embedded_under_if": 0.23000000417232513,
+                "constituent_cn_embedded_under_verb": 0.23600000143051147
+            },
+            "15": {
+                "validation_matched": 0.832705020904541,
+                "validation_mismatched": 0.8383848667144775,
+                "lexical_overlap_ln_preposition": 0.8090000152587891,
+                "lexical_overlap_ln_subject-object_swap": 0.9190000295639038,
+                "constituent_cn_embedded_under_if": 0.289000004529953,
+                "constituent_cn_embedded_under_verb": 0.2409999966621399
+            },
+            "20": {
+                "validation_matched": 0.834335207939148,
+                "validation_mismatched": 0.835943877696991,
+                "lexical_overlap_ln_preposition": 0.6129999756813049,
+                "lexical_overlap_ln_subject-object_swap": 0.753000020980835,
+                "constituent_cn_embedded_under_if": 0.2529999911785126,
+                "constituent_cn_embedded_under_verb": 0.2720000147819519
+            },
+            "25": {
+                "validation_matched": 0.8312786817550659,
+                "validation_mismatched": 0.8362489938735962,
+                "lexical_overlap_ln_preposition": 0.7200000286102295,
+                "lexical_overlap_ln_subject-object_swap": 0.7850000262260437,
+                "constituent_cn_embedded_under_if": 0.4259999990463257,
+                "constituent_cn_embedded_under_verb": 0.2879999876022339
+            },
+            "30": {
+                "validation_matched": 0.8336219787597656,
+                "validation_mismatched": 0.8320789337158203,
+                "lexical_overlap_ln_preposition": 0.7260000109672546,
+                "lexical_overlap_ln_subject-object_swap": 0.8600000143051147,
+                "constituent_cn_embedded_under_if": 0.23199999332427979,
+                "constituent_cn_embedded_under_verb": 0.0949999988079071
+            },
+            "35": {
+                "validation_matched": 0.8239429593086243,
+                "validation_mismatched": 0.826993465423584,
+                "lexical_overlap_ln_preposition": 0.5680000185966492,
+                "lexical_overlap_ln_subject-object_swap": 0.6349999904632568,
+                "constituent_cn_embedded_under_if": 0.4390000104904175,
+                "constituent_cn_embedded_under_verb": 0.23000000417232513
+            },
+            "40": {
+                "validation_matched": 0.8254712224006653,
+                "validation_mismatched": 0.8248575925827026,
+                "lexical_overlap_ln_preposition": 0.3779999911785126,
+                "lexical_overlap_ln_subject-object_swap": 0.4449999928474426,
+                "constituent_cn_embedded_under_if": 0.03700000047683716,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "45": {
+                "validation_matched": 0.8226184248924255,
+                "validation_mismatched": 0.8204841613769531,
+                "lexical_overlap_ln_preposition": 0.38100001215934753,
+                "lexical_overlap_ln_subject-object_swap": 0.3970000147819519,
+                "constituent_cn_embedded_under_if": 0.2709999978542328,
+                "constituent_cn_embedded_under_verb": 0.11900000274181366
+            },
+            "50": {
+                "validation_matched": 0.8198675513267517,
+                "validation_mismatched": 0.8173311352729797,
+                "lexical_overlap_ln_preposition": 0.11999999731779099,
+                "lexical_overlap_ln_subject-object_swap": 0.0560000017285347,
+                "constituent_cn_embedded_under_if": 0.2070000022649765,
+                "constituent_cn_embedded_under_verb": 0.05700000002980232
+            },
+            "55": {
+                "validation_matched": 0.811003565788269,
+                "validation_mismatched": 0.8102115392684937,
+                "lexical_overlap_ln_preposition": 0.04399999976158142,
+                "lexical_overlap_ln_subject-object_swap": 0.013000000268220901,
+                "constituent_cn_embedded_under_if": 0.08500000089406967,
+                "constituent_cn_embedded_under_verb": 0.004000000189989805
+            },
+            "60": {
+                "validation_matched": 0.80152827501297,
+                "validation_mismatched": 0.8000406622886658,
+                "lexical_overlap_ln_preposition": 0.039000000804662704,
+                "lexical_overlap_ln_subject-object_swap": 0.020999999716877937,
+                "constituent_cn_embedded_under_if": 0.05999999865889549,
+                "constituent_cn_embedded_under_verb": 0.0010000000474974513
+            },
+            "65": {
+                "validation_matched": 0.7788079380989075,
+                "validation_mismatched": 0.7856997847557068,
+                "lexical_overlap_ln_preposition": 0.0020000000949949026,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.02800000086426735,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.7482424974441528,
+                "validation_mismatched": 0.7548820376396179,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.013000000268220901,
+                "constituent_cn_embedded_under_verb": 0.0
+            }
+        },
+        "54500": {
+            "5": {
+                "validation_matched": 0.818848729133606,
+                "validation_mismatched": 0.8177379965782166,
+                "lexical_overlap_ln_preposition": 0.10499999672174454,
+                "lexical_overlap_ln_subject-object_swap": 0.07199999690055847,
+                "constituent_cn_embedded_under_if": 0.28700000047683716,
+                "constituent_cn_embedded_under_verb": 0.15000000596046448
+            },
+            "10": {
+                "validation_matched": 0.8372898697853088,
+                "validation_mismatched": 0.8408258557319641,
+                "lexical_overlap_ln_preposition": 0.7129999995231628,
+                "lexical_overlap_ln_subject-object_swap": 0.8270000219345093,
+                "constituent_cn_embedded_under_if": 0.3269999921321869,
+                "constituent_cn_embedded_under_verb": 0.2460000067949295
+            },
+            "15": {
+                "validation_matched": 0.8340295553207397,
+                "validation_mismatched": 0.8362489938735962,
+                "lexical_overlap_ln_preposition": 0.6100000143051147,
+                "lexical_overlap_ln_subject-object_swap": 0.7450000047683716,
+                "constituent_cn_embedded_under_if": 0.34700000286102295,
+                "constituent_cn_embedded_under_verb": 0.3319999873638153
+            },
+            "20": {
+                "validation_matched": 0.8336219787597656,
+                "validation_mismatched": 0.8381814360618591,
+                "lexical_overlap_ln_preposition": 0.6549999713897705,
+                "lexical_overlap_ln_subject-object_swap": 0.8190000057220459,
+                "constituent_cn_embedded_under_if": 0.34599998593330383,
+                "constituent_cn_embedded_under_verb": 0.22499999403953552
+            },
+            "25": {
+                "validation_matched": 0.8372898697853088,
+                "validation_mismatched": 0.8340113759040833,
+                "lexical_overlap_ln_preposition": 0.5809999704360962,
+                "lexical_overlap_ln_subject-object_swap": 0.6840000152587891,
+                "constituent_cn_embedded_under_if": 0.2980000078678131,
+                "constituent_cn_embedded_under_verb": 0.10899999737739563
+            },
+            "30": {
+                "validation_matched": 0.8315843343734741,
+                "validation_mismatched": 0.833706259727478,
+                "lexical_overlap_ln_preposition": 0.5,
+                "lexical_overlap_ln_subject-object_swap": 0.6359999775886536,
+                "constituent_cn_embedded_under_if": 0.3409999907016754,
+                "constituent_cn_embedded_under_verb": 0.1720000058412552
+            },
+            "35": {
+                "validation_matched": 0.8282220959663391,
+                "validation_mismatched": 0.8297396302223206,
+                "lexical_overlap_ln_preposition": 0.32199999690055847,
+                "lexical_overlap_ln_subject-object_swap": 0.29499998688697815,
+                "constituent_cn_embedded_under_if": 0.41200000047683716,
+                "constituent_cn_embedded_under_verb": 0.2590000033378601
+            },
+            "40": {
+                "validation_matched": 0.8255730867385864,
+                "validation_mismatched": 0.8255695700645447,
+                "lexical_overlap_ln_preposition": 0.5730000138282776,
+                "lexical_overlap_ln_subject-object_swap": 0.6209999918937683,
+                "constituent_cn_embedded_under_if": 0.32100000977516174,
+                "constituent_cn_embedded_under_verb": 0.17000000178813934
+            },
+            "45": {
+                "validation_matched": 0.8241466879844666,
+                "validation_mismatched": 0.8189585208892822,
+                "lexical_overlap_ln_preposition": 0.26600000262260437,
+                "lexical_overlap_ln_subject-object_swap": 0.26600000262260437,
+                "constituent_cn_embedded_under_if": 0.3310000002384186,
+                "constituent_cn_embedded_under_verb": 0.09799999743700027
+            },
+            "50": {
+                "validation_matched": 0.8155884146690369,
+                "validation_mismatched": 0.811940610408783,
+                "lexical_overlap_ln_preposition": 0.13300000131130219,
+                "lexical_overlap_ln_subject-object_swap": 0.07000000029802322,
+                "constituent_cn_embedded_under_if": 0.12300000339746475,
+                "constituent_cn_embedded_under_verb": 0.09200000017881393
+            },
+            "55": {
+                "validation_matched": 0.8058074116706848,
+                "validation_mismatched": 0.8085842132568359,
+                "lexical_overlap_ln_preposition": 0.08100000023841858,
+                "lexical_overlap_ln_subject-object_swap": 0.05400000140070915,
+                "constituent_cn_embedded_under_if": 0.19599999487400055,
+                "constituent_cn_embedded_under_verb": 0.03099999949336052
+            },
+            "60": {
+                "validation_matched": 0.7920529842376709,
+                "validation_mismatched": 0.7911920547485352,
+                "lexical_overlap_ln_preposition": 0.019999999552965164,
+                "lexical_overlap_ln_subject-object_swap": 0.017000000923871994,
+                "constituent_cn_embedded_under_if": 0.039000000804662704,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "65": {
+                "validation_matched": 0.7800305485725403,
+                "validation_mismatched": 0.7783767580986023,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.004999999888241291,
+                "constituent_cn_embedded_under_verb": 0.0
+            },
+            "70": {
+                "validation_matched": 0.7393785119056702,
+                "validation_mismatched": 0.7477623820304871,
+                "lexical_overlap_ln_preposition": 0.0,
+                "lexical_overlap_ln_subject-object_swap": 0.0,
+                "constituent_cn_embedded_under_if": 0.03999999910593033,
+                "constituent_cn_embedded_under_verb": 0.0
+            }
+        }
+    }
+}

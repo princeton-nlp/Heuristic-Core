@@ -73,9 +73,10 @@ If you have any questions about our methods, results or code, please email Adith
 
 Please cite our paper if you found it useful in your work:
 ```
-@article{bhaskar2024heuristic,
-      title={{T}he {H}euristic {C}ore: {U}nderstanding Subnetwork Generalization in Pretrained Language Models}, 
-      author={Adithya Bhaskar and Dan Friedman and Danqi Chen},
-      year={2024}
+@inproceedings{bhaskar2024heuristic,
+   title={The Heuristic Core: Understanding Subnetwork Generalization in Pretrained Language Models},
+   author={Bhaskar, Adithya and Friedman, Dan and Chen, Danqi},
+   booktitle={Association for Computational Linguistics (ACL)},
+   year={2024}
 }
 ```
